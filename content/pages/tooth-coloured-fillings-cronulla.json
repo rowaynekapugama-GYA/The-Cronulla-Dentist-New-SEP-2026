@@ -1,0 +1,148 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "tooth-coloured-fillings-cronulla",
+    "route": "/tooth-coloured-fillings-cronulla/",
+    "title": "Tooth Coloured Fillings",
+    "metaTitle": "Tooth Coloured Fillings in Cronulla | The Cronulla Dentists",
+    "metaDescription": "White composite fillings at 13 Cronulla Street, Cronulla. How they compare with amalgam, how long they last and when replacement is worthwhile.",
+    "primaryKeyword": "tooth coloured fillings Cronulla, white fillings Cronulla"
+  },
+  "h1": "Tooth Coloured Fillings in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Tooth Coloured Fillings"
+  ],
+  "eyebrow": "BONDED, NOT WEDGED IN",
+  "h2": "Tooth Coloured Fillings in Cronulla",
+  "hook": "**Need a filling? Composite does more than just look better than the silver alternative.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "A filling replaces tooth structure that has been lost to decay, a chip or wear."
+    },
+    {
+      "type": "p",
+      "text": "For decades that meant amalgam, the silver material most Australian adults have somewhere in their mouth. Tooth coloured composite has largely replaced it in general practice, and at 13 Cronulla Street composite is what we use for the great majority of fillings."
+    },
+    {
+      "type": "p",
+      "text": "The appearance is the obvious reason. It is not the main one."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Why composite, beyond the look",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**It bonds to the tooth.** Amalgam has no adhesion. It is held in place mechanically, which means the cavity has to be shaped with undercuts to lock the filling in, and that often requires removing healthy tooth structure that was not itself decayed. Composite bonds chemically to enamel and dentine, so the preparation can follow the decay and stop there."
+        },
+        {
+          "type": "p",
+          "text": "Preserving sound tooth structure matters over a lifetime. Every filling a tooth receives is slightly larger than the last, and teeth have a finite amount of structure to give."
+        },
+        {
+          "type": "p",
+          "text": "**It reinforces the remaining tooth.** Because it bonds, composite helps hold the walls of the tooth together rather than sitting inside them as a wedge."
+        },
+        {
+          "type": "p",
+          "text": "**It can be repaired.** A chipped composite can often be added to rather than replaced entirely."
+        },
+        {
+          "type": "p",
+          "text": "**It conducts less temperature change**, which some patients notice as reduced sensitivity compared with metal."
+        }
+      ]
+    },
+    {
+      "heading": "How the appointment works",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Straightforward and usually completed in one visit."
+        },
+        {
+          "type": "p",
+          "text": "The area is numbed with local anaesthetic where needed, though very small fillings sometimes do not require it. The decay is removed. The tooth is prepared with a bonding agent, and composite is placed in layers, each one set with a curing light."
+        },
+        {
+          "type": "p",
+          "text": "The filling is then shaped to match your tooth anatomy and your bite is checked and adjusted. Getting the bite right matters. A filling left even slightly high causes soreness and can crack the tooth over time. Tell us if it feels different when you bite down, either on the day or in the following week. It takes minutes to adjust."
+        },
+        {
+          "type": "p",
+          "text": "Finally the filling is polished, which improves both the appearance and how well it resists staining."
+        },
+        {
+          "type": "p",
+          "text": "The shade is matched to your tooth before we start, and composite comes in a range of shades and translucencies. On front teeth this is done carefully, because a filling that is technically excellent but the wrong colour is still a visible filling."
+        }
+      ]
+    },
+    {
+      "heading": "How long they last",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Composite fillings commonly last many years, and small fillings in low stress areas often last a great deal longer than that."
+        },
+        {
+          "type": "p",
+          "text": "Longevity depends on the size of the filling, where it sits, how much chewing force it takes, whether you grind, and your decay risk and oral hygiene. Large fillings in molars work hardest and are replaced soonest."
+        },
+        {
+          "type": "p",
+          "text": "No filling material lasts forever. Fillings are eventually replaced because the margins wear, decay develops underneath, or the material chips. This is normal and expected, and it is one of the things we check at each visit."
+        },
+        {
+          "type": "p",
+          "text": "Where a tooth has lost so much structure that a filling would be doing more work than it reasonably can, a crown or an inlay is the more durable answer, and we will tell you when that point has been reached rather than placing a filling that is likely to fail."
+        }
+      ]
+    },
+    {
+      "heading": "Should you replace existing amalgam fillings",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Usually not, and this is worth being clear about."
+        },
+        {
+          "type": "p",
+          "text": "An amalgam filling that is intact, sealed and causing no problems is generally best left alone. Replacing it means removing more tooth structure, and every replacement makes the eventual restoration larger. There is no established health reason to remove sound amalgam fillings."
+        },
+        {
+          "type": "p",
+          "text": "Replacement is worth considering where a filling is cracked, leaking, has decay underneath, is causing sensitivity, or where the tooth is visible when you smile and the appearance genuinely bothers you."
+        },
+        {
+          "type": "p",
+          "text": "If you would like your amalgams replaced for appearance reasons, that is a legitimate choice and we will discuss it with you, including what it costs and what it means for the tooth. What we will not do is tell you they need to come out when they do not."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the Cronulla shopping precinct, and see patients from Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "restorative",
+  "image": {
+    "src": "/images/services/tooth-coloured-fillings-cronulla.jpg",
+    "alt": "Tooth Coloured Fillings at The Cronulla Dentists"
+  }
+}

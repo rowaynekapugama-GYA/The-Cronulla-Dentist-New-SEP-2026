@@ -1,0 +1,199 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "wisdom-teeth-removal-cronulla",
+    "route": "/wisdom-teeth-removal-cronulla/",
+    "title": "Wisdom Teeth Removal",
+    "metaTitle": "Wisdom Teeth Removal in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Wisdom tooth assessment and removal at 13 Cronulla Street, Cronulla. When extraction is needed, what the procedure involves and how recovery works.",
+    "primaryKeyword": "wisdom teeth removal Cronulla"
+  },
+  "h1": "Wisdom Teeth Removal in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Wisdom Teeth Removal"
+  ],
+  "eyebrow": "THE LAST TEETH TO ARRIVE",
+  "h2": "Wisdom Teeth Removal in Cronulla",
+  "hook": "**Wisdom teeth causing trouble? Not all of them need removing, and assessment comes first.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Wisdom teeth are the last teeth to come through, usually between seventeen and twenty five, and they are the ones most likely to cause trouble."
+    },
+    {
+      "type": "p",
+      "text": "The reason is space. The human jaw has grown smaller over time while the number of teeth has not changed, so there is frequently not enough room at the back for a third molar to come through in a useful position."
+    },
+    {
+      "type": "p",
+      "text": "Not every wisdom tooth needs removing, and at 13 Cronulla Street we do not remove them on principle. Some sit in good alignment, come through fully and function normally for life. The question is always whether yours is causing a problem or is likely to."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "When removal is usually recommended",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Impaction.** The tooth is blocked by bone or by the tooth in front and cannot come through properly. It may be angled forward, backward, or lying sideways."
+        },
+        {
+          "type": "p",
+          "text": "**Recurrent infection.** Where a tooth has partly come through, a flap of gum sits over part of it, trapping food and bacteria underneath. The resulting infection, called pericoronitis, causes swelling, pain and difficulty opening. It tends to recur, and each episode is worse than the last."
+        },
+        {
+          "type": "p",
+          "text": "**Decay.** Wisdom teeth sit at the very back and are difficult to clean properly. Decay there is common and often difficult to restore."
+        },
+        {
+          "type": "p",
+          "text": "**Damage to the tooth in front.** An angled wisdom tooth pressing against the second molar can cause decay or bone loss on the back surface of a tooth that is otherwise healthy and worth keeping. This is one of the more compelling reasons to act, because the damage is to a tooth you need."
+        },
+        {
+          "type": "p",
+          "text": "**Cysts.** Occasionally a cyst develops around an unerupted tooth, which requires attention."
+        },
+        {
+          "type": "p",
+          "text": "**Gum problems** in the area that cannot be resolved while the tooth remains."
+        }
+      ]
+    },
+    {
+      "heading": "When we leave them alone",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If a wisdom tooth is fully through, in reasonable alignment, cleanable and causing no problems, monitoring is usually the right approach."
+        },
+        {
+          "type": "p",
+          "text": "Removing wisdom teeth is not risk free, and there is no benefit in taking out a tooth that is doing its job. Preventive removal of symptom free, fully erupted wisdom teeth is not routinely recommended."
+        },
+        {
+          "type": "p",
+          "text": "We will keep an eye on them at your check-ups and take X-rays periodically to see whether anything has changed."
+        }
+      ]
+    },
+    {
+      "heading": "Assessment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Assessment starts with an X-ray, usually a panoramic image showing all four wisdom teeth, their angulation, root shape and their relationship to surrounding structures."
+        },
+        {
+          "type": "p",
+          "text": "The important relationship is with the inferior alveolar nerve, which runs through the lower jaw and supplies sensation to the lip and chin. Lower wisdom tooth roots sometimes sit close to it. Where the X-ray suggests they are very close, a 3D scan may be recommended for a clearer picture before proceeding."
+        },
+        {
+          "type": "p",
+          "text": "This assessment determines both the difficulty of the extraction and where it should be done."
+        }
+      ]
+    },
+    {
+      "heading": "Where treatment happens",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Straightforward cases** are commonly handled in the practice under local anaesthetic."
+        },
+        {
+          "type": "p",
+          "text": "**More complex cases** are referred to an oral and maxillofacial surgeon, sometimes for treatment in hospital under general anaesthetic. Deep impactions, roots close to the nerve, and cases where all four are being removed at once are typical reasons."
+        },
+        {
+          "type": "p",
+          "text": "We will tell you which category yours falls into at the assessment, before you commit to anything. Attempting a difficult extraction in the wrong setting serves nobody."
+        }
+      ]
+    },
+    {
+      "heading": "What the procedure involves",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Under local anaesthetic, the area is fully numbed. Where the tooth is covered by gum, a small incision is made to expose it. Some bone may need to be removed, and the tooth is often sectioned into pieces, which allows it to come out through a smaller opening than it would otherwise need. Stitches are frequently placed, and dissolving stitches are common."
+        },
+        {
+          "type": "p",
+          "text": "You will feel pressure and movement. You should not feel pain. Say something if you do."
+        }
+      ]
+    },
+    {
+      "heading": "Recovery",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**The first 24 hours.** Bite firmly on the gauze provided. Do not rinse, spit forcefully, smoke or use a straw, as these can dislodge the clot. Rest, keep your head elevated, and use a cold compress on the outside of the cheek."
+        },
+        {
+          "type": "p",
+          "text": "**Swelling** typically peaks around day two or three and then subsides. Bruising is possible."
+        },
+        {
+          "type": "p",
+          "text": "**Pain** is usually manageable with over the counter pain relief taken as directed. Take it before the anaesthetic wears off rather than waiting."
+        },
+        {
+          "type": "p",
+          "text": "**Eating.** Soft, cool foods initially, building up as comfort allows."
+        },
+        {
+          "type": "p",
+          "text": "**From day two**, gentle rinsing with warm salt water several times daily."
+        },
+        {
+          "type": "p",
+          "text": "**Most people** take a couple of days off work or study, longer for more involved extractions."
+        }
+      ]
+    },
+    {
+      "heading": "Risks worth knowing",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Dry socket**, where the clot is lost and the socket is exposed, causing significant pain typically three to five days afterwards. It is treatable and we will see you promptly if it happens. Smoking substantially increases the risk."
+        },
+        {
+          "type": "p",
+          "text": "**Infection**, uncommon but possible."
+        },
+        {
+          "type": "p",
+          "text": "**Nerve disturbance.** With lower wisdom teeth there is a risk of numbness or altered sensation in the lip, chin or tongue. It is usually temporary. Permanent change is uncommon but possible, and the risk is assessed from your imaging and discussed with you beforehand."
+        },
+        {
+          "type": "p",
+          "text": "**Jaw stiffness and difficulty opening** for several days."
+        }
+      ]
+    },
+    {
+      "heading": "Booking an assessment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, and see patients from across the Sutherland Shire including Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "general",
+  "image": {
+    "src": "/images/services/wisdom-teeth-removal-cronulla.jpg",
+    "alt": "Wisdom Teeth Removal at The Cronulla Dentists"
+  }
+}

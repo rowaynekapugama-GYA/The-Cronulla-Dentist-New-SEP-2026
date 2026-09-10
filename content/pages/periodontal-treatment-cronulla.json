@@ -1,0 +1,174 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "periodontal-treatment-cronulla",
+    "route": "/periodontal-treatment-cronulla/",
+    "title": "Periodontal Treatment",
+    "metaTitle": "Periodontal Treatment in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Root surface debridement, reassessment and ongoing periodontal maintenance at 13 Cronulla Street, Cronulla. What each stage of treatment involves.",
+    "primaryKeyword": "periodontal treatment Cronulla, deep cleaning Cronulla"
+  },
+  "h1": "Periodontal Treatment in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Periodontal Treatment"
+  ],
+  "eyebrow": "STAGE BY STAGE",
+  "h2": "Periodontal Treatment in Cronulla",
+  "hook": "**Diagnosed with gum disease? Here is what treatment involves, appointment by appointment.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "If you have been diagnosed with periodontitis, this page sets out what treatment involves, appointment by appointment."
+    },
+    {
+      "type": "p",
+      "text": "Periodontal treatment is not a single procedure. It is a sequence, and the sequence matters, because each stage determines what the next one needs to be."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Stage one: non-surgical periodontal therapy",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Also called root surface debridement, or deep cleaning."
+        },
+        {
+          "type": "p",
+          "text": "A routine hygiene appointment cleans the tooth surfaces you can see and just below the gum margin. Periodontal therapy goes further, cleaning the root surfaces inside the pockets that have formed, where the bacteria driving the disease are living."
+        },
+        {
+          "type": "p",
+          "text": "**How it is done.** Under local anaesthetic, so it is comfortable. Ultrasonic and hand instruments are used to remove deposits and disrupt the bacterial film on the root surfaces."
+        },
+        {
+          "type": "p",
+          "text": "**How long it takes.** Usually two to four appointments, working through the mouth in sections. Treating one quadrant at a time means the anaesthetic is localised and you are not numb across your whole mouth for an afternoon."
+        },
+        {
+          "type": "p",
+          "text": "**Afterwards.** Expect some tenderness for a few days and increased sensitivity to cold, which typically settles over a few weeks. You may notice gums appearing to recede slightly. This is not the treatment causing damage. It is swelling reducing, revealing where the gum line actually sits now that the inflammation has gone. Some patients notice small gaps opening between teeth for the same reason."
+        },
+        {
+          "type": "p",
+          "text": "This stage resolves or substantially improves most cases."
+        }
+      ]
+    },
+    {
+      "heading": "Stage two: reassessment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Usually six to twelve weeks after the last treatment appointment."
+        },
+        {
+          "type": "p",
+          "text": "We measure the same points as before and compare. Pockets that have reduced and stopped bleeding indicate the tissue has reattached and the disease is stable. Pockets that remain deep and continue to bleed indicate ongoing activity."
+        },
+        {
+          "type": "p",
+          "text": "This appointment is the one patients most often skip, because by this point their mouth feels considerably better. Feeling better is not the same as being stable. The measurements are what tell us whether the treatment worked, and without them the next decision is guesswork."
+        }
+      ]
+    },
+    {
+      "heading": "Stage three: further treatment where needed",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Where deep pockets persist despite thorough non-surgical treatment, options include repeating debridement in the specific areas still active, or referral to a periodontist for surgical treatment."
+        },
+        {
+          "type": "p",
+          "text": "Surgical periodontal treatment allows direct access to root surfaces that cannot be reached through a pocket, reshaping of bone contours, and in selected cases regenerative procedures using grafting materials."
+        },
+        {
+          "type": "p",
+          "text": "We will refer where referral genuinely serves you better, and we will explain why rather than simply handing over a name."
+        },
+        {
+          "type": "p",
+          "text": "Adjunctive antibiotics are used in some circumstances, though they do not substitute for mechanical cleaning of the root surfaces and are not routinely required."
+        }
+      ]
+    },
+    {
+      "heading": "Stage four: maintenance, indefinitely",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "This is the stage that determines the long term outcome, and it is the one most likely to be neglected."
+        },
+        {
+          "type": "p",
+          "text": "Periodontitis is a chronic condition. Treatment stabilises it. The bacteria recolonise the pockets over a matter of months, and without regular professional cleaning below the gum line the disease resumes."
+        },
+        {
+          "type": "p",
+          "text": "**Maintenance appointments are typically every three to four months**, not six. That interval is based on how quickly bacterial populations re-establish in previously diseased pockets."
+        },
+        {
+          "type": "p",
+          "text": "Each maintenance visit includes cleaning below the gum line, remeasurement of pocket depths, and review of any sites showing change. Intervals can be extended over time where readings remain consistently stable."
+        },
+        {
+          "type": "p",
+          "text": "The research on this is consistent. Patients who attend maintenance retain their teeth at considerably higher rates than those who complete active treatment and then stop. If you take one thing from this page, take that."
+        }
+      ]
+    },
+    {
+      "heading": "What treatment can and cannot achieve",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**It can** stop or slow the progression of the disease, reduce pocket depths, eliminate inflammation and bleeding, and give you a stable situation you can maintain for many years."
+        },
+        {
+          "type": "p",
+          "text": "**It cannot** regrow bone that has already been lost, except in limited cases suitable for regenerative techniques. Teeth that have lost most of their support will not become firm again."
+        },
+        {
+          "type": "p",
+          "text": "Outcomes depend heavily on factors beyond the treatment itself, particularly smoking, diabetes control, home care and maintenance attendance. Some patients respond better than others with identical treatment. We will give you a realistic picture of your own situation rather than a general one."
+        }
+      ]
+    },
+    {
+      "heading": "Cost and cover",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Periodontal treatment involves several appointments and you will receive a written plan and estimate covering the whole sequence before we begin."
+        },
+        {
+          "type": "p",
+          "text": "Health fund extras cover commonly contributes, though periodontal item numbers may draw on a different limit than routine cleans. We can provide the item numbers so you can check with your fund. Payment plans are available."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, convenient for Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "gum",
+  "image": {
+    "src": "/images/services/periodontal-treatment-cronulla.jpg",
+    "alt": "Periodontal Treatment at The Cronulla Dentists"
+  }
+}

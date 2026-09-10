@@ -1,0 +1,165 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "hygiene-treatments-cronulla",
+    "route": "/hygiene-treatments-cronulla/",
+    "title": "Hygiene Treatments",
+    "metaTitle": "Hygiene Treatments in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Professional cleans, scaling and preventive care at 13 Cronulla Street, Cronulla. What a hygiene appointment involves and how often you need one.",
+    "primaryKeyword": "dental hygienist Cronulla, teeth cleaning Cronulla"
+  },
+  "h1": "Hygiene Treatments in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Hygiene Treatments"
+  ],
+  "eyebrow": "WHAT A TOOTHBRUSH CANNOT REACH",
+  "h2": "Hygiene Treatments in Cronulla",
+  "hook": "**Due for a clean? It is the least dramatic appointment in dentistry and one of the most useful.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "A professional clean is the least dramatic appointment in dentistry and one of the most useful."
+    },
+    {
+      "type": "p",
+      "text": "Brushing and flossing remove plaque, the soft film that forms constantly on teeth. What they cannot remove is calculus, which is plaque that has hardened onto the tooth surface and bonded there. Once that has happened, no amount of brushing will shift it. It needs to be removed with instruments."
+    },
+    {
+      "type": "p",
+      "text": "That is the core of what a hygiene appointment does at 13 Cronulla Street, and it is why the interval between appointments matters more than the effort you put into any single one."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "What happens during a hygiene appointment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Assessment of your gums.** We check the gum margins for inflammation, bleeding and recession, and where indicated we measure the depth of the space between gum and tooth. These readings are recorded so changes can be tracked over time, which tells us far more than a single visit ever could."
+        },
+        {
+          "type": "p",
+          "text": "**Scaling.** Removal of hardened deposits from the tooth surfaces, above and just below the gum line. Ultrasonic instruments do most of the work, with hand instruments for detail."
+        },
+        {
+          "type": "p",
+          "text": "**Polishing.** Smoothing the tooth surfaces afterwards, which removes residual surface staining and makes it harder for plaque to re-establish."
+        },
+        {
+          "type": "p",
+          "text": "**Fluoride application** where it is likely to benefit you."
+        },
+        {
+          "type": "p",
+          "text": "**Specific advice.** Not a generic brushing lecture. If one particular area keeps building up deposits or bleeding, we will look at why and work out what would actually help there, whether that is a different brush angle, an interdental brush of the right size, or a change to how you use floss."
+        }
+      ]
+    },
+    {
+      "heading": "Will it hurt",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Most people find a routine clean straightforward, particularly when they attend regularly."
+        },
+        {
+          "type": "p",
+          "text": "It is less comfortable when there is a lot to remove, or when the gums are already inflamed, because inflamed tissue is tender and bleeds readily. This is one of the reasons long gaps between appointments compound. The longer you leave it, the less pleasant the catch-up visit."
+        },
+        {
+          "type": "p",
+          "text": "Tell us if you are sensitive. Topical numbing gel or local anaesthetic can be used, and we can work in shorter sections. Nobody needs to grit their teeth through a clean."
+        }
+      ]
+    },
+    {
+      "heading": "How often",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Six monthly suits most people. It is not a universal answer."
+        },
+        {
+          "type": "p",
+          "text": "More frequent visits, often every three or four months, are commonly recommended for patients with a history of gum disease, those who build calculus quickly, smokers, people with diabetes, patients with dry mouth from medication, and those wearing orthodontic appliances."
+        },
+        {
+          "type": "p",
+          "text": "Less frequent visits are sometimes reasonable for patients with consistently healthy gums and thorough home care."
+        },
+        {
+          "type": "p",
+          "text": "We will suggest an interval based on your readings rather than a default, and we will explain the reasoning behind it."
+        }
+      ]
+    },
+    {
+      "heading": "Why gum health is worth the appointment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The visible reasons are obvious enough. Fresher breath, a cleaner feeling, less surface staining."
+        },
+        {
+          "type": "p",
+          "text": "The reason that matters more is that gum disease is largely painless in its early and middle stages. People do not notice it. Bleeding when brushing is the most common early sign, and it is widely dismissed as brushing too hard rather than recognised as inflammation. By the time gum disease causes noticeable symptoms, bone has usually been lost, and lost bone does not grow back."
+        },
+        {
+          "type": "p",
+          "text": "Regular hygiene appointments catch that trajectory early, when it is still reversible. That is the whole argument."
+        },
+        {
+          "type": "p",
+          "text": "There is also a growing body of research linking gum disease with cardiovascular disease, diabetes and adverse pregnancy outcomes. The relationships are complex and still being worked out, so we will not overstate them. What is well established is that inflammation in the mouth does not stay confined to the mouth."
+        }
+      ]
+    },
+    {
+      "heading": "Between appointments",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Brush twice daily for two minutes with a fluoride toothpaste. Electric brushes with a pressure sensor help most people, largely because they discourage scrubbing too hard."
+        },
+        {
+          "type": "p",
+          "text": "Clean between your teeth daily. Floss works if you use it properly. For many adults, particularly those with larger gaps or existing gum recession, interdental brushes are more effective and easier to use consistently. We can size them for you."
+        },
+        {
+          "type": "p",
+          "text": "Do not rinse with water straight after brushing. Spit and leave the fluoride in contact with the teeth."
+        },
+        {
+          "type": "p",
+          "text": "If your gums bleed when you clean between your teeth, that is a reason to keep going gently and to mention it to us, not a reason to stop."
+        }
+      ]
+    },
+    {
+      "heading": "Booking a clean",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the Cronulla shopping precinct and a short walk from the station and wharf, which makes a routine appointment easy to fit into an existing trip into town. We see patients from Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Health fund extras cover commonly includes preventive appointments, and we can claim on the spot with HICAPS."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "gum",
+  "image": {
+    "src": "/images/services/hygiene-treatments-cronulla.jpg",
+    "alt": "Hygiene Treatments at The Cronulla Dentists"
+  }
+}

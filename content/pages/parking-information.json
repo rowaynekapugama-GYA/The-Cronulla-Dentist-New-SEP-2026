@@ -1,0 +1,66 @@
+{
+  "kind": "prose",
+  "meta": {
+    "slug": "parking-information",
+    "route": "/parking-information/",
+    "title": "Parking",
+    "metaTitle": "Parking & Getting Here | The Cronulla Dentists",
+    "metaDescription": "How to get to 13 Cronulla Street, Cronulla. Parking options, train and ferry access, and how much time to allow for your appointment.",
+    "primaryKeyword": "parking Cronulla Street, dentist parking Cronulla"
+  },
+  "h1": "Parking and Getting to 13 Cronulla Street",
+  "intro": [
+    "We are in the Cronulla Street precinct in the centre of Cronulla. Here is how to reach us and where to leave the car."
+  ],
+  "sections": [
+    {
+      "heading": "By train",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Cronulla station is the terminus of the T4 Eastern Suburbs and Illawarra line, and the practice is a short walk from the platform. For patients coming from Woolooware, Caringbah, Miranda, Sutherland and further up the line, the train is often simpler than driving and parking."
+        }
+      ]
+    },
+    {
+      "heading": "By ferry",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The Cronulla to Bundeena ferry runs from Cronulla wharf, a short walk from Cronulla Street. Bundeena and Maianbar patients can plan an appointment around the timetable."
+        }
+      ]
+    },
+    {
+      "heading": "By car",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "From Caringbah South, Burraneer and Greenhills Beach the drive is a matter of minutes. Woolooware, Taren Point and Kurnell are close by, and the practice is straightforward to reach from the wider Sutherland Shire."
+        }
+      ]
+    },
+    {
+      "heading": "Accessibility",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If you have specific access requirements, please mention them when you book and we will make sure everything is ready for you."
+        }
+      ]
+    },
+    {
+      "heading": "Allow a little extra on your first visit",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Cronulla Street is busy, particularly on weekends and through summer. Arriving a few minutes early means you are not rushing in, which matters more than it sounds if you are already nervous about the appointment."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} if you have trouble finding us."
+        }
+      ]
+    }
+  ]
+}

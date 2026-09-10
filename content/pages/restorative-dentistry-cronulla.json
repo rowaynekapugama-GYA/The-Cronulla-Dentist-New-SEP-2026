@@ -1,0 +1,148 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "restorative-dentistry-cronulla",
+    "route": "/restorative-dentistry-cronulla/",
+    "title": "Restorative Dentistry",
+    "metaTitle": "Restorative Dentistry in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Fillings, crowns, bridges, implants, dentures and root canal therapy at 13 Cronulla Street, Cronulla. Restoring function across the Sutherland Shire.",
+    "primaryKeyword": "restorative dentistry Cronulla"
+  },
+  "h1": "Restorative Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Restorative Dentistry"
+  ],
+  "eyebrow": "FUNCTION FIRST, APPEARANCE FOLLOWS",
+  "h2": "Restorative Dentistry in Cronulla",
+  "hook": "**Damaged, worn or missing teeth? Restorative dentistry is about getting normal function back.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Restorative dentistry is what happens when a tooth has been damaged, worn down, decayed or lost, and the job is to get function back."
+    },
+    {
+      "type": "p",
+      "text": "Appearance matters, and restorative work is designed to look natural. But the first question is usually practical. Can you chew comfortably on both sides? Is the bite distributing load evenly? Is the tooth structurally sound enough to keep doing its job for another decade?"
+    },
+    {
+      "type": "p",
+      "text": "Get those right and the appearance generally follows."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Why gaps and damage matter more than they seem",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "A missing back tooth is easy to live with. Nobody sees it, and you adapt to chewing on the other side within weeks."
+        },
+        {
+          "type": "p",
+          "text": "The consequences are slower and less obvious. Teeth either side of a gap tend to tilt into the space over time. The opposing tooth, with nothing to meet, can drift down or up out of its position. Chewing load redistributes onto teeth that were not designed to carry it, which accelerates wear and cracking. Bone in the area of a missing tooth gradually reduces in volume once it is no longer stimulated by a root."
+        },
+        {
+          "type": "p",
+          "text": "None of this happens quickly. All of it makes future treatment more complicated and more expensive."
+        },
+        {
+          "type": "p",
+          "text": "This is why we raise replacement options for gaps even when the gap itself is not bothering you."
+        }
+      ]
+    },
+    {
+      "heading": "What restorative dentistry includes at Cronulla",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Tooth coloured fillings.** Composite resin bonded directly to the tooth to repair decay, chips and wear. Matched to your natural shade, and bonded rather than wedged in place, which means less healthy tooth structure has to be removed than with older approaches."
+        },
+        {
+          "type": "p",
+          "text": "**Crowns.** A custom cap that covers the whole visible portion of a tooth. Used where too much structure has been lost for a filling to hold reliably, where a tooth has cracked, or after root canal therapy has left a tooth more brittle."
+        },
+        {
+          "type": "p",
+          "text": "**Bridges.** A fixed replacement that spans a gap, anchored to the teeth on either side. Not removable, and a well established option where implants are unsuitable or unwanted."
+        },
+        {
+          "type": "p",
+          "text": "**Dental implants.** A titanium post integrated into the jawbone to support a replacement tooth. The closest option to a standalone natural tooth, and the most involved in terms of time and cost."
+        },
+        {
+          "type": "p",
+          "text": "**Dentures.** Removable replacements for several teeth or a full arch. Modern dentures are considerably better fitting and more natural looking than their reputation suggests, and can sometimes be stabilised with implants."
+        },
+        {
+          "type": "p",
+          "text": "**Root canal therapy.** Treatment for a tooth where infection has reached the nerve. The alternative is usually extraction, so root canal therapy is a tooth saving procedure rather than a last resort."
+        },
+        {
+          "type": "p",
+          "text": "**Replacing failing older work.** Fillings, crowns and bridges do not last forever. Ageing restorations that are leaking, cracked or worn are assessed and replaced as needed."
+        }
+      ]
+    },
+    {
+      "heading": "How we approach a treatment plan",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Restorative treatment is often the point at which patients feel most out of their depth, because the recommendations are technical and the numbers are large."
+        },
+        {
+          "type": "p",
+          "text": "So we sequence and explain."
+        },
+        {
+          "type": "p",
+          "text": "**We start with an assessment of the whole mouth**, not just the tooth that is bothering you. Treating one broken tooth in isolation while three others are heading the same way solves very little."
+        },
+        {
+          "type": "p",
+          "text": "**We set out options with real trade-offs.** For a single missing tooth that usually means comparing an implant, a bridge and a partial denture. Each has different costs, timeframes, longevity and implications for the neighbouring teeth. We will give you our recommendation and the reasoning behind it."
+        },
+        {
+          "type": "p",
+          "text": "**We provide written estimates before treatment begins.** No surprises on the invoice."
+        },
+        {
+          "type": "p",
+          "text": "**We can stage the work.** Where a plan involves several procedures, we can prioritise what is urgent, complete that, and schedule the rest over months rather than weeks. This helps with cost and with the patients who would rather not spend a long time in the chair. A DentiCare payment plan is also available."
+        }
+      ]
+    },
+    {
+      "heading": "Restorative care across the Shire",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the middle of the Cronulla shopping precinct and a short walk from the station, which is convenient for the multiple appointments that restorative treatment often involves."
+        },
+        {
+          "type": "p",
+          "text": "Patients come from Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell, Bundeena and the wider Sutherland Shire."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "restorative",
+  "image": {
+    "src": "/images/services/restorative-dentistry-cronulla.jpg",
+    "alt": "Restorative Dentistry at The Cronulla Dentists"
+  }
+}

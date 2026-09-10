@@ -1,0 +1,183 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "dental-implants-cronulla",
+    "route": "/dental-implants-cronulla/",
+    "title": "Dental Implants",
+    "metaTitle": "Dental Implants in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Dental implants at 13 Cronulla Street, Cronulla. How the process works, who is suitable, what it costs and how it compares to bridges and dentures.",
+    "primaryKeyword": "dental implants Cronulla"
+  },
+  "h1": "Dental Implants in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Dental Implants"
+  ],
+  "eyebrow": "MEASURED IN MONTHS, NOT WEEKS",
+  "h2": "Dental Implants in Cronulla",
+  "hook": "**Missing a tooth, or facing an extraction? An implant is the closest option to a natural tooth.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "A dental implant replaces the root of a missing tooth. A small titanium post is placed into the jawbone, left to integrate with the bone over several months, and then fitted with a crown that sits and functions much like a natural tooth."
+    },
+    {
+      "type": "p",
+      "text": "It is the most involved way of replacing a missing tooth, and for a lot of people it is the option that best restores normal function. It is also not the right answer for everyone, and this page is intended to help you work out which category you are in before you book."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Why replacing a missing tooth matters",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Losing a back tooth is easy to accommodate. You chew on the other side and the gap is invisible."
+        },
+        {
+          "type": "p",
+          "text": "What follows is gradual. Neighbouring teeth tend to tilt into the space. The opposing tooth, meeting nothing, can move out of position. Chewing load shifts onto teeth that were not designed for it. And the bone that used to support the missing root slowly reduces in volume, because bone maintains itself in response to load."
+        },
+        {
+          "type": "p",
+          "text": "That last point matters for implants specifically. An implant placed years after an extraction sometimes requires bone grafting first, which adds time and cost. Earlier assessment usually means simpler treatment."
+        }
+      ]
+    },
+    {
+      "heading": "What the process involves",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Implant treatment is measured in months, mostly spent waiting for biology rather than sitting in a chair."
+        },
+        {
+          "type": "p",
+          "text": "**Assessment.** A thorough examination including 3D imaging to assess bone volume, bone quality and the position of nerves and sinuses. Your gum health and general health are reviewed. This stage determines whether an implant is viable at all."
+        },
+        {
+          "type": "p",
+          "text": "**Preparation if needed.** Extraction of a failing tooth, treatment of gum disease, or bone grafting where there is insufficient bone. Grafting requires its own healing period before the implant can be placed."
+        },
+        {
+          "type": "p",
+          "text": "**Placement.** A minor surgical procedure under local anaesthetic, usually taking around an hour for a single implant. Most patients report the recovery as more manageable than they expected, with mild discomfort for a few days."
+        },
+        {
+          "type": "p",
+          "text": "**Integration.** The waiting period, typically three to six months, while bone grows into contact with the implant surface. A temporary tooth can usually be provided during this time."
+        },
+        {
+          "type": "p",
+          "text": "**Restoration.** Once integration is confirmed, an abutment is attached and a custom crown is made and fitted, shaped and shaded to match the surrounding teeth."
+        }
+      ]
+    },
+    {
+      "heading": "Who is suitable",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Most adults in reasonable health with adequate bone are candidates. There are genuine limiting factors."
+        },
+        {
+          "type": "p",
+          "text": "**Bone volume.** Insufficient bone can often be addressed with grafting, but not always."
+        },
+        {
+          "type": "p",
+          "text": "**Gum health.** Active gum disease must be treated first. Untreated periodontal disease is one of the main causes of implant failure."
+        },
+        {
+          "type": "p",
+          "text": "**Smoking.** Smoking significantly increases the risk of implant failure. It does not necessarily rule out treatment, but it needs an honest conversation."
+        },
+        {
+          "type": "p",
+          "text": "**Certain medical conditions and medications.** Uncontrolled diabetes, some bone medications and a history of head and neck radiotherapy can all affect suitability."
+        },
+        {
+          "type": "p",
+          "text": "**Jaw growth.** Implants are generally not placed until jaw growth is complete."
+        },
+        {
+          "type": "p",
+          "text": "We will tell you if you are not a good candidate. There is no benefit to anyone in placing an implant with a poor prognosis."
+        }
+      ]
+    },
+    {
+      "heading": "How implants compare with the alternatives",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Versus a bridge.** A bridge is faster, usually cheaper up front, and needs no surgery. It requires preparing the healthy teeth on either side of the gap, which means permanently altering two sound teeth. An implant leaves the neighbours untouched but takes months and costs more."
+        },
+        {
+          "type": "p",
+          "text": "**Versus a partial denture.** A denture is the least expensive and least invasive option. It is removable, less stable when eating, and does not prevent bone loss in the area."
+        },
+        {
+          "type": "p",
+          "text": "**Versus leaving the gap.** Sometimes reasonable, particularly for a rear molar with limited functional impact. We will tell you when it is a defensible choice rather than pushing treatment."
+        }
+      ]
+    },
+    {
+      "heading": "Longevity and maintenance",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Implants have strong long term outcomes in well selected patients with good oral hygiene, and many function well for decades."
+        },
+        {
+          "type": "p",
+          "text": "They are not maintenance free and we will not describe them as permanent. Implants can fail. The crown on top can chip or wear and may need replacing during the life of the implant. The gum and bone around an implant can develop inflammation, a condition called peri-implantitis, which behaves much like gum disease and is the leading cause of late implant loss."
+        },
+        {
+          "type": "p",
+          "text": "They need brushing, flossing or interdental cleaning, and regular professional review, exactly as natural teeth do."
+        }
+      ]
+    },
+    {
+      "heading": "Cost",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Implant treatment is a significant investment and the total depends on whether extraction, grafting or multiple implants are involved."
+        },
+        {
+          "type": "p",
+          "text": "You will receive a full written estimate covering every stage before anything begins. Health fund rebates may apply depending on your level of cover nib preferred provider, with HICAPS on site for all funds, and a DentiCare payment plan can spread the cost."
+        }
+      ]
+    },
+    {
+      "heading": "Implants at 13 Cronulla Street",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Because treatment involves several appointments over months, a practice that is easy to get to helps. We are in the Cronulla shopping precinct, a short walk from the station and the wharf, and convenient for Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        }
+      ]
+    },
+    {
+      "heading": "Booking an assessment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "restorative",
+  "image": {
+    "src": "/images/services/dental-implants-cronulla.jpg",
+    "alt": "Dental Implants at The Cronulla Dentists"
+  }
+}

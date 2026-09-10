@@ -1,0 +1,143 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "mouth-night-guards-cronulla",
+    "route": "/mouth-night-guards-cronulla/",
+    "title": "Mouth & Night Guards",
+    "metaTitle": "Mouthguards & Night Guards | The Cronulla Dentists",
+    "metaDescription": "Custom fitted sports mouthguards and night guards for grinding, made at 13 Cronulla Street, Cronulla. Why custom fit matters more than most people think.",
+    "primaryKeyword": "mouthguard Cronulla, night guard Cronulla, teeth grinding Cronulla"
+  },
+  "h1": "Mouth & Night Guards in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Mouth & Night Guards"
+  ],
+  "eyebrow": "THE ONE THAT ACTUALLY GETS WORN",
+  "h2": "Mouthguards and Night Guards in Cronulla",
+  "hook": "**Playing contact sport, or grinding at night? A custom fitted guard works considerably better than an off the shelf one.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Two different appliances, two different jobs, one thing in common. Both work considerably better when they are made to fit your mouth."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Sports mouthguards",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The Shire plays a lot of sport. Between junior league at Woolooware, the football and netball clubs across Cronulla and Caringbah, and everything played on weekends across Greenhills Beach and Burraneer, dental injuries from sport are a regular presentation."
+        },
+        {
+          "type": "p",
+          "text": "A mouthguard absorbs and distributes the force of a knock. It protects the teeth from being chipped, broken or knocked out, protects the lips and cheeks from being cut against the teeth, and reduces the risk of jaw injury."
+        },
+        {
+          "type": "p",
+          "text": "**Custom versus over the counter.** The boil and bite guards sold in sports stores are better than nothing, and that is roughly the extent of the endorsement they deserve."
+        },
+        {
+          "type": "p",
+          "text": "They are moulded by biting into softened plastic, which produces an approximate fit. They tend to be bulky, which interferes with breathing and speech. They loosen and need holding in place with the teeth, which is why so many end up being carried in a hand or a pocket during play. And a mouthguard that is not being worn provides no protection at all."
+        },
+        {
+          "type": "p",
+          "text": "A custom guard is made from an impression or digital scan of your teeth. It fits closely, stays put without being held, allows normal speech and breathing, and is thicker in the areas that take impact and thinner where they do not. Children and teenagers wear them because they are not unpleasant to wear."
+        },
+        {
+          "type": "p",
+          "text": "**For growing mouths**, a custom guard will need replacing as teeth come through and the jaw develops. Check the fit at the start of each season."
+        },
+        {
+          "type": "p",
+          "text": "**With braces**, a mouthguard is more important rather than less, and needs to be made specifically to accommodate the appliance."
+        },
+        {
+          "type": "p",
+          "text": "Guards can be made in club colours, which sounds trivial and is a genuinely useful way of getting a teenager to wear one."
+        }
+      ]
+    },
+    {
+      "heading": "Night guards for grinding and clenching",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Grinding and clenching, known as bruxism, mostly happens during sleep, which is why many people have no idea they do it until damage appears or a partner mentions the noise."
+        },
+        {
+          "type": "p",
+          "text": "**Signs to look for:**"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Teeth that are visibly flattened, chipped or worn at the edges",
+            "Jaw ache or facial muscle soreness, particularly on waking",
+            "Headaches around the temples in the morning",
+            "Increased tooth sensitivity",
+            "Clicking, popping or discomfort in the jaw joint",
+            "Ridging along the inside of the cheeks or scalloped edges on the tongue",
+            "A partner who hears grinding at night"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**Why it matters.** The forces involved in nocturnal grinding are substantially higher than normal chewing forces and are sustained for far longer. Over years this wears through enamel, cracks teeth, causes fillings and crowns to fail, and contributes to jaw joint problems. Enamel does not regenerate, so wear is cumulative and permanent."
+        },
+        {
+          "type": "p",
+          "text": "**What a night guard does.** It does not stop you grinding. It is important to be clear about that. What it does is place a hard acrylic layer between your upper and lower teeth so the wear happens to the guard rather than to your teeth, and it changes how the jaw muscles load, which many patients find reduces morning soreness."
+        },
+        {
+          "type": "p",
+          "text": "The guard wears down over time and needs replacing periodically. That is the appliance doing its job."
+        },
+        {
+          "type": "p",
+          "text": "**Custom fit matters here too.** Over the counter night guards are soft, which can encourage more chewing activity rather than less, and a poorly fitting guard can allow teeth to shift. A custom guard is made from a scan or impression, adjusted against your bite at the fitting, and reviewed."
+        },
+        {
+          "type": "p",
+          "text": "**Causes.** Bruxism is associated with stress, sleep disturbance, some medications, alcohol and caffeine, and bite irregularities. A guard protects the teeth. Where an underlying cause can be identified and addressed, that is worth doing alongside it, and where sleep disordered breathing may be involved, medical assessment is appropriate."
+        }
+      ]
+    },
+    {
+      "heading": "Getting one made",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Two appointments. A scan or impression at the first, and fitting and adjustment two to three weeks later. Bring the guard to your check-ups so we can assess wear and fit."
+        },
+        {
+          "type": "p",
+          "text": "Health fund extras cover frequently contributes to both types. We can provide the item numbers so you can check with your fund before proceeding."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, convenient for Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "general",
+  "image": {
+    "src": "/images/services/mouth-night-guards-cronulla.jpg",
+    "alt": "Mouth & Night Guards at The Cronulla Dentists"
+  }
+}

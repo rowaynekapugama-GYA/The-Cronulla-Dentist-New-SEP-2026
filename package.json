@@ -1,0 +1,27 @@
+{
+  "name": "the-cronulla-dentists",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "next build",
+    "build:static": "node scripts/build-static.mjs",
+    "dev": "next dev",
+    "gen:images": "node scripts/gen-image-manifest.mjs",
+    "prebuild": "node scripts/gen-image-manifest.mjs",
+    "prebuild:static": "node scripts/gen-image-manifest.mjs",
+    "preview:offline": "node scripts/build-offline-preview.mjs",
+    "qa:banned": "node scripts/check-banned.mjs",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "typescript": "5.6"
+  },
+  "private": true
+}

@@ -1,0 +1,188 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "dental-crowns-bridges-cronulla",
+    "route": "/dental-crowns-bridges-cronulla/",
+    "title": "Crowns & Bridges",
+    "metaTitle": "Dental Crowns & Bridges in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Crowns to protect damaged teeth and bridges to replace missing ones, at 13 Cronulla Street, Cronulla. Materials, process and longevity explained.",
+    "primaryKeyword": "dental crowns Cronulla, dental bridges Cronulla"
+  },
+  "h1": "Crowns & Bridges in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Crowns & Bridges"
+  ],
+  "eyebrow": "TWO TREATMENTS, TWO DIFFERENT JOBS",
+  "h2": "Dental Crowns and Bridges in Cronulla",
+  "hook": "**A cracked tooth, or a gap you would like closed? Crowns and bridges solve two different problems.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Crowns and bridges are among the most common treatments in dentistry, and they solve two different problems."
+    },
+    {
+      "type": "p",
+      "text": "A crown protects a tooth that is still there but too damaged to be relied upon. A bridge replaces a tooth that is gone, using the teeth on either side as support."
+    },
+    {
+      "type": "p",
+      "text": "Both are made in a dental laboratory to fit your mouth, and both are available at 13 Cronulla Street."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Dental crowns",
+      "nodes": [
+        {
+          "type": "h4",
+          "text": "When a crown is the right answer"
+        },
+        {
+          "type": "p",
+          "text": "A filling replaces missing tooth structure. A crown covers what remains and holds it together, which is a different job."
+        },
+        {
+          "type": "p",
+          "text": "Crowns are typically recommended when:"
+        },
+        {
+          "type": "p",
+          "text": "**A tooth has cracked.** A cracked tooth flexes under chewing pressure and the crack propagates. A crown holds it together and stops that movement."
+        },
+        {
+          "type": "p",
+          "text": "**Decay has been extensive.** Once enough tooth structure is gone, a large filling becomes the weak point rather than the fix. Fillings do not strengthen a tooth, they fill a space."
+        },
+        {
+          "type": "p",
+          "text": "**A tooth has had root canal therapy.** Back teeth in particular become more brittle after root canal treatment and are prone to fracturing under load. A crown is usually recommended to protect them."
+        },
+        {
+          "type": "p",
+          "text": "**A tooth is heavily worn.** From grinding, acid erosion or decades of ordinary use."
+        },
+        {
+          "type": "p",
+          "text": "**A tooth is both damaged and visible.** In which case the crown addresses structure and appearance at once."
+        },
+        {
+          "type": "h4",
+          "text": "Materials"
+        },
+        {
+          "type": "p",
+          "text": "**All ceramic and zirconia** crowns are the usual choice today. They look natural, are strong enough for most positions including molars, and contain no metal."
+        },
+        {
+          "type": "p",
+          "text": "**Porcelain fused to metal** has a metal substructure for strength with porcelain over it. Very durable, though a dark line can eventually appear at the gum margin as gums recede."
+        },
+        {
+          "type": "p",
+          "text": "**Gold** is rarely requested now but remains an excellent material for back teeth. It wears at a rate similar to natural enamel and is gentle on the opposing tooth."
+        },
+        {
+          "type": "p",
+          "text": "We will recommend based on the position of the tooth, how much force it takes and how visible it is."
+        },
+        {
+          "type": "h4",
+          "text": "The process"
+        },
+        {
+          "type": "p",
+          "text": "Two appointments in most cases."
+        },
+        {
+          "type": "p",
+          "text": "At the first, the tooth is shaped under local anaesthetic to make room for the crown, an impression or digital scan is taken, and a temporary crown is fitted. At the second, usually two to three weeks later, the permanent crown is trialled, adjusted, checked against your bite and cemented in place."
+        }
+      ]
+    },
+    {
+      "heading": "Dental bridges",
+      "nodes": [
+        {
+          "type": "h4",
+          "text": "How a bridge works"
+        },
+        {
+          "type": "p",
+          "text": "A bridge replaces one or more missing teeth with a fixed unit. The teeth either side of the gap, called abutment teeth, are prepared for crowns, and the replacement tooth is joined between them. The whole assembly is cemented in place and is not removable."
+        },
+        {
+          "type": "h4",
+          "text": "When a bridge makes sense"
+        },
+        {
+          "type": "p",
+          "text": "Bridges suit patients who want a fixed replacement without surgery, who are not candidates for implants, or whose neighbouring teeth already need crowns for their own reasons. In that last case a bridge is particularly logical, because those teeth were going to be prepared anyway."
+        },
+        {
+          "type": "h4",
+          "text": "The trade-off worth understanding"
+        },
+        {
+          "type": "p",
+          "text": "A bridge requires permanently reducing the healthy teeth on either side of the gap. If those teeth are sound and untouched, this is a real cost that deserves weighing against an implant, which leaves them alone."
+        },
+        {
+          "type": "p",
+          "text": "We will lay out that comparison honestly, including cost, timeframe and long term implications, rather than steering you toward one option."
+        },
+        {
+          "type": "h4",
+          "text": "The process"
+        },
+        {
+          "type": "p",
+          "text": "Similar to a crown. Preparation of the abutment teeth, impressions or a scan, a temporary bridge, then fitting of the permanent one a few weeks later."
+        }
+      ]
+    },
+    {
+      "heading": "How long they last",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Well made crowns and bridges commonly last many years, and often well over a decade. That is a range, not a promise."
+        },
+        {
+          "type": "p",
+          "text": "Longevity depends heavily on factors within your control. Decay can develop at the margin where the crown meets the tooth, which is why brushing and flossing around it matters. Gum disease undermines the support. Grinding shortens the life of any restoration, and a night guard is worth discussing if you clench."
+        },
+        {
+          "type": "p",
+          "text": "Bridges need particular attention underneath the replacement tooth, where a floss threader or interdental brush is needed to clean an area normal flossing cannot reach. We will show you how."
+        }
+      ]
+    },
+    {
+      "heading": "Crowns and bridges in the Sutherland Shire",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the Cronulla shopping precinct and a short walk from the station, which makes the two appointment sequence straightforward. Patients come from Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "restorative",
+  "image": {
+    "src": "/images/services/dental-crowns-bridges-cronulla.jpg",
+    "alt": "Crowns & Bridges at The Cronulla Dentists"
+  }
+}

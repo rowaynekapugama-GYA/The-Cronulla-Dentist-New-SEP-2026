@@ -1,0 +1,157 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "cosmetic-dentistry-cronulla",
+    "route": "/cosmetic-dentistry-cronulla/",
+    "title": "Cosmetic Dentistry",
+    "metaTitle": "Cosmetic Dentistry in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Whitening, veneers, bonding and reshaping at 13 Cronulla Street, Cronulla. A considered approach to cosmetic dentistry across the Sutherland Shire.",
+    "primaryKeyword": "cosmetic dentistry Cronulla"
+  },
+  "h1": "Cosmetic Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Cosmetic Dentistry"
+  ],
+  "eyebrow": "START WITH THE SMALLEST CHANGE",
+  "h2": "Cosmetic Dentistry in Cronulla",
+  "hook": "**Something about your smile bothering you? The fix is often smaller than people expect.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Most people who book a cosmetic consultation arrive with a specific complaint rather than a wish for a transformation. One tooth that sits slightly forward. A chip from years ago. A general dullness that has crept in without any single cause."
+    },
+    {
+      "type": "p",
+      "text": "Almost as often, they arrive assuming the fix will be more involved than it turns out to be."
+    },
+    {
+      "type": "p",
+      "text": "That is the useful part of a cosmetic consultation at 13 Cronulla Street. Before anything is decided, we work out what is actually bothering you, and what the smallest reasonable intervention would be."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Starting with the least invasive option",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "There is a hierarchy in cosmetic dentistry, and it runs from reversible to permanent."
+        },
+        {
+          "type": "p",
+          "text": "Whitening changes nothing structurally. Bonding adds material without removing much, if any. Reshaping removes a very small amount of enamel. Veneers require permanent preparation of the tooth. Crowns involve more again."
+        },
+        {
+          "type": "p",
+          "text": "Our approach is to begin at the conservative end and only move up when there is a reason to."
+        },
+        {
+          "type": "p",
+          "text": "A patient convinced they need eight veneers sometimes needs whitening and the reshaping of one edge. Someone unhappy with a gap may be a candidate for bonding rather than porcelain. Not always. But it is worth establishing before committing to work that cannot be undone."
+        },
+        {
+          "type": "p",
+          "text": "We will always tell you what the more conservative option would achieve, even where it earns the practice less."
+        }
+      ]
+    },
+    {
+      "heading": "What we offer",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Teeth whitening.** In chair and take home options. The most common starting point, and often enough on its own. Worth knowing before you begin: whitening lifts natural tooth structure but does not change the colour of existing crowns, veneers or fillings, which can leave older restorations looking noticeably darker afterwards."
+        },
+        {
+          "type": "p",
+          "text": "**Dental veneers.** Thin custom shells bonded to the front surface of the teeth, used to change shape, colour, spacing or apparent alignment. Effective, and a genuine commitment, since preparing a tooth for a veneer usually alters it permanently."
+        },
+        {
+          "type": "p",
+          "text": "**Composite bonding.** Tooth coloured material applied directly to repair a chip, close a small gap or reshape an edge. Usually completed in one appointment, considerably less expensive than porcelain, and more conservative. It does not last as long and is more prone to staining over time."
+        },
+        {
+          "type": "p",
+          "text": "**Tooth reshaping.** Removing a very small amount of enamel to soften an uneven edge or a pointed corner. Quick, and surprisingly effective for a small change."
+        },
+        {
+          "type": "p",
+          "text": "**Crowns for cosmetic and structural reasons.** Where a tooth is both damaged and visible, a crown addresses appearance and function together."
+        },
+        {
+          "type": "p",
+          "text": "**Replacing old restorations.** Silver amalgam fillings and ageing composites that have discoloured can be replaced with modern tooth coloured materials."
+        }
+      ]
+    },
+    {
+      "heading": "What a consultation involves",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "A cosmetic consultation is a conversation, not a sales appointment."
+        },
+        {
+          "type": "p",
+          "text": "We ask what specifically bothers you, which is more useful than a general wish for a better smile. A photograph you like is genuinely helpful, as is one of yourself from a period you were happier with."
+        },
+        {
+          "type": "p",
+          "text": "We examine the underlying health of the teeth and gums. Cosmetic work sits on top of dental health, not instead of it. Active decay or untreated gum disease has to be addressed first, because a veneer over an unhealthy foundation is a short lived veneer."
+        },
+        {
+          "type": "p",
+          "text": "We set out the options, from most conservative to most involved, with the trade-offs of each. Costs, timeframes, longevity and maintenance are all discussed before you decide anything."
+        },
+        {
+          "type": "p",
+          "text": "Then you go away and think about it. There is no time pressure applied here, and no discount that expires if you do not book on the day."
+        }
+      ]
+    },
+    {
+      "heading": "On expectations",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Cosmetic dentistry does have limits, and being clear about them beforehand avoids disappointment later."
+        },
+        {
+          "type": "p",
+          "text": "Results vary between individuals. Teeth respond differently to whitening depending on the cause of the discolouration. Some corrections are constrained by the position of the underlying tooth. Occasionally the honest answer is that orthodontic treatment would achieve a better outcome than a cosmetic one, and we will say so."
+        },
+        {
+          "type": "p",
+          "text": "We will show you what is realistically achievable in your case rather than what has been achieved for someone else."
+        }
+      ]
+    },
+    {
+      "heading": "Cosmetic dentistry in the Sutherland Shire",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the Cronulla shopping precinct and a short walk from the station and wharf. Patients come to us from Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        }
+      ]
+    },
+    {
+      "heading": "Booking a consultation",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}}) to arrange a cosmetic consultation."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "cosmetic",
+  "image": {
+    "src": "/images/services/cosmetic-dentistry-cronulla.jpg",
+    "alt": "Cosmetic Dentistry at The Cronulla Dentists"
+  }
+}

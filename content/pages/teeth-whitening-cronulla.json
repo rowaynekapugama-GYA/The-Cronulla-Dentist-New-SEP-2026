@@ -1,0 +1,154 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "teeth-whitening-cronulla",
+    "route": "/teeth-whitening-cronulla/",
+    "title": "Teeth Whitening",
+    "metaTitle": "Teeth Whitening in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Professional in chair and take home teeth whitening at 13 Cronulla Street, Cronulla. Assessment first, honest advice about what results are realistic.",
+    "primaryKeyword": "teeth whitening Cronulla"
+  },
+  "h1": "Teeth Whitening in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Teeth Whitening"
+  ],
+  "eyebrow": "WHAT WHITENING CAN AND CANNOT SHIFT",
+  "h2": "Professional Teeth Whitening in Cronulla",
+  "hook": "**Teeth not as white as they once were? Here is what professional whitening can and cannot do.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Teeth whitening is the most requested cosmetic treatment in dentistry, and the one most surrounded by inflated claims."
+    },
+    {
+      "type": "p",
+      "text": "We would rather set expectations properly at the start. Professional whitening produces a real, visible change for most people. It is not the same for everyone, it does not work on everything, and the honest answer sometimes is that whitening is not the right treatment for what is bothering you."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "First, why are your teeth discoloured",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "This determines whether whitening will help, so it is where the appointment starts."
+        },
+        {
+          "type": "p",
+          "text": "**Surface staining** comes from what passes over your teeth. Coffee, tea, red wine, cola and tobacco are the usual contributors. This type of discolouration generally responds well, and a professional clean sometimes removes more of it than people expect before any whitening is needed."
+        },
+        {
+          "type": "p",
+          "text": "**Age related change** is structural. Enamel thins gradually over decades and the dentine underneath, which is naturally more yellow, shows through more. Whitening can help, though the extent varies."
+        },
+        {
+          "type": "p",
+          "text": "**Internal discolouration** sits within the tooth. Causes include trauma to a single tooth, certain antibiotics taken during childhood such as tetracycline, and excessive fluoride during tooth development. This type responds less predictably, and a single dark tooth following an old injury usually needs a different approach entirely."
+        },
+        {
+          "type": "p",
+          "text": "**Existing dental work** does not whiten at all. Crowns, veneers, bridges and tooth coloured fillings keep their original shade permanently. If you have restorations on your front teeth, whitening the surrounding natural teeth can leave them looking obviously darker, which may mean replacing them afterwards to match. We will tell you before you start if this applies to you."
+        }
+      ]
+    },
+    {
+      "heading": "The options",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**In chair whitening.** A higher concentration gel applied by the dentist in a single appointment of roughly 60 to 90 minutes, with the gums protected throughout. The advantage is speed. Most of the change happens the same day."
+        },
+        {
+          "type": "p",
+          "text": "**Take home whitening.** Custom trays made from impressions of your teeth, used with a lower concentration gel over one to two weeks at home. It takes longer, but the gradual approach often means less sensitivity, and you keep the trays for future top-ups."
+        },
+        {
+          "type": "p",
+          "text": "**Both together.** In chair to get most of the way, then take home trays for maintenance. This is a common combination for patients wanting a change ahead of a specific event, with maintenance built in afterwards."
+        },
+        {
+          "type": "p",
+          "text": "Which suits you depends on your timeframe, your sensitivity history and your budget. We will talk it through rather than defaulting to the most expensive option."
+        }
+      ]
+    },
+    {
+      "heading": "On sensitivity",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Temporary sensitivity to cold is the most common side effect of whitening. It typically settles within a few days."
+        },
+        {
+          "type": "p",
+          "text": "Some people experience it more than others, and if you already have sensitive teeth you are more likely to notice it. This is manageable. We can adjust concentration, shorten wear time, use a desensitising toothpaste in the lead up, or recommend the take home approach for a gentler pace."
+        },
+        {
+          "type": "p",
+          "text": "Tell us about existing sensitivity before we start."
+        }
+      ]
+    },
+    {
+      "heading": "Why not the supermarket kit",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Over the counter whitening products are legally limited to much lower concentrations of active ingredient than professional treatment, which is why the results are usually modest."
+        },
+        {
+          "type": "p",
+          "text": "The bigger issue is the fit. One size trays leak gel onto the gums, which is uncomfortable and gives an uneven result. Custom trays hold the gel against the teeth and away from the soft tissue."
+        },
+        {
+          "type": "p",
+          "text": "There is also the assessment. A dentist checks for decay, cracks and gum problems first. Whitening over untreated decay is uncomfortable and, in the case of a cracked tooth, can push the material somewhere it should not go."
+        }
+      ]
+    },
+    {
+      "heading": "How long the results last",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Anywhere from several months to a couple of years, depending largely on what you consume and whether you smoke."
+        },
+        {
+          "type": "p",
+          "text": "Teeth do gradually pick up staining again. That is normal and not a sign anything went wrong. Take home trays make top-ups straightforward, and a regular professional clean helps."
+        },
+        {
+          "type": "p",
+          "text": "Results vary between individuals, and we cannot tell you in advance exactly how many shades your teeth will lift."
+        }
+      ]
+    },
+    {
+      "heading": "Whitening at 13 Cronulla Street",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are in the Cronulla shopping precinct, a short walk from the station and the wharf, and easily reached from Woolooware, Burraneer, Greenhills Beach, Caringbah South, Kurnell and Bundeena."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}}) to arrange a whitening assessment."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "cosmetic",
+  "image": {
+    "src": "/images/services/teeth-whitening-cronulla.jpg",
+    "alt": "Teeth Whitening at The Cronulla Dentists"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "kind": "prose",
+  "meta": {
+    "slug": "about",
+    "route": "/about/",
+    "title": "About",
+    "metaTitle": "About Us | The Cronulla Dentists | 13 Cronulla Street",
+    "metaDescription": "Meet Dr Ram Nathwani and Dr Lorna Gladwin at The Cronulla Dentists, 13 Cronulla Street. Gentle, unhurried care for the Sutherland Shire.",
+    "primaryKeyword": "dentist Cronulla, about"
+  },
+  "h1": "About The Cronulla Dentists",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "A new practice, run by people who have been here a while",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Most new dental practices open as unknowns. This one does not."
+        },
+        {
+          "type": "p",
+          "text": "The Cronulla Dentists is at 13 Cronulla Street, in the middle of the Cronulla shopping precinct. The rooms are new. The people in them are not."
+        },
+        {
+          "type": "p",
+          "text": "The practice is led by Dr Ram Nathwani and Dr Lorna Gladwin. Between them they bring more than twenty years of clinical experience, Dr Nathwani across Sydney and the Sutherland Shire and Dr Gladwin across hospitals and private practices in the United Kingdom and Sydney."
+        },
+        {
+          "type": "p",
+          "text": "That combination, a brand new practice run by a familiar team, is not something you come across often."
+        }
+      ]
+    },
+    {
+      "heading": "Why Cronulla",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The reason is geography. A steady number of patients from Cronulla, Woolooware, Burraneer and Greenhills Beach were travelling out of the area for their dental care, as were residents of Bundeena coming across by ferry. Opening on Cronulla Street moves the practice closer to where a lot of them already were."
+        }
+      ]
+    },
+    {
+      "heading": "How we approach dentistry",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Three things shape how appointments run here."
+        },
+        {
+          "type": "p",
+          "text": "**Explanation before treatment.** You should understand what is happening in your mouth before anyone starts working on it. We will show you what we have found, describe the options in plain language, and include the option of waiting. What you decide after that is genuinely your call."
+        },
+        {
+          "type": "p",
+          "text": "**Comfort as a clinical priority.** Patient comfort is not a nice extra sitting alongside the real dentistry. It is part of it. A patient who is tense is harder to treat and more likely to postpone the next visit. Appointments are scheduled with enough time to work at a pace that suits you."
+        },
+        {
+          "type": "p",
+          "text": "**No judgement about the gap since your last visit.** Long absences from the dentist are usually the result of a bad experience, a busy stretch of life, or cost. None of those are worth a lecture. We would rather spend the appointment on what happens next."
+        }
+      ]
+    },
+    {
+      "heading": "Nervous patients",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Dental anxiety is one of the most common reasons people avoid care, and it tends to compound. The longer the gap, the more there is to deal with, and the harder the next appointment feels."
+        },
+        {
+          "type": "p",
+          "text": "We break that cycle by slowing it down. That can mean a first appointment where nothing clinical happens at all, or agreeing on a signal to stop at any point, or working through treatment in shorter sessions. [There is a full page on how this works.](/dental-anxiety-cronulla/)"
+        }
+      ]
+    },
+    {
+      "heading": "Meet the team",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Dr Ram Nathwani**"
+        },
+        {
+          "type": "p",
+          "text": "Dr Nathwani took his Bachelor of Dental Surgery at the University of Sydney, graduating in 2009. He works conservatively, which in practice means preferring the treatment that removes the least tooth structure and holds up over time, and his clinical interests run across general dentistry, prosthodontics and endodontics."
+        },
+        {
+          "type": "p",
+          "text": "He added a graduate diploma in Implant Surgery through Charles Sturt University in 2018, and is currently working towards a diploma in General Orthodontic treatment."
+        },
+        {
+          "type": "p",
+          "text": "**Dr Lorna Gladwin**"
+        },
+        {
+          "type": "p",
+          "text": "Dr Gladwin trained in England, graduating from the University of Sheffield in 2019, and moved to Sydney after several years working across NHS hospitals and private practice, including referral level cases sent on by other dentists."
+        },
+        {
+          "type": "p",
+          "text": "Her particular interest is restorative dentistry and endodontics, which is root canal treatment. Both are areas where getting the detail right is what determines whether a tooth is still there in fifteen years."
+        }
+      ]
+    },
+    {
+      "heading": "The practice itself",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "13 Cronulla Street sits in the Cronulla Street precinct, a short walk from Cronulla station and the wharf. The fit-out has been designed for an unhurried, welcoming atmosphere rather than the formal waiting room most people picture."
+        }
+      ]
+    },
+    {
+      "heading": "Coming to see us",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Whether you are in Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell or coming across from Bundeena, we would be glad to meet you."
+        },
+        {
+          "type": "p",
+          "text": "If you are not sure what to book, or you have a specific concern you would like looked at, call and say so. Our reception team can point you to the right appointment length rather than leaving you to guess from a list."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ]
+}

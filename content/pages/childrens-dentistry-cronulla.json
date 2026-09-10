@@ -1,0 +1,162 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "childrens-dentistry-cronulla",
+    "route": "/childrens-dentistry-cronulla/",
+    "title": "Children’s Dentistry",
+    "metaTitle": "Children’s Dentist in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Calm, patient dental care for children at 13 Cronulla Street, Cronulla. First visits, check-ups and the Child Dental Benefits Schedule explained.",
+    "primaryKeyword": "children’s dentist Cronulla"
+  },
+  "h1": "Children’s Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Children’s Dentistry"
+  ],
+  "eyebrow": "THE FIRST VISIT SETS THE TONE",
+  "h2": "Children’s Dentistry in Cronulla",
+  "hook": "**Wondering when to bring your child in for the first time, or how to make it go well? Here is how we approach it.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "A child’s first few dental appointments do more than check their teeth. They set the expectation that person carries into adulthood."
+    },
+    {
+      "type": "p",
+      "text": "Adults who dread the dentist can usually point back to something specific from childhood. Being held still. Not being told what was about to happen. Being rushed. The dental work itself is rarely the memory. The lack of control is."
+    },
+    {
+      "type": "p",
+      "text": "So at 13 Cronulla Street we treat a child’s early visits as being about the experience as much as the examination."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "When should a child first see a dentist",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Earlier than most parents expect. The general guidance is around the first birthday, or within six months of the first tooth appearing."
+        },
+        {
+          "type": "p",
+          "text": "At that age there is very little to examine. That is precisely the point. The first visit becomes a low pressure introduction, a look in the mouth, a conversation with you about brushing and diet, and nothing that could unsettle them. The dentist becomes an ordinary place before there is any reason for it to be otherwise."
+        }
+      ]
+    },
+    {
+      "heading": "How we run a first visit",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Short, unhurried and predictable."
+        },
+        {
+          "type": "p",
+          "text": "**They can look first.** The chair goes up and down. The little mirror gets handled. The suction makes a noise. Children cope far better with equipment they have already inspected."
+        },
+        {
+          "type": "p",
+          "text": "**We narrate everything.** No surprises. We say what we are about to do before we do it, in words appropriate to their age."
+        },
+        {
+          "type": "p",
+          "text": "**You stay close.** For younger children, a parent in the room is usually helpful."
+        },
+        {
+          "type": "p",
+          "text": "**We stop when it is not working.** A visit where a three year old sits in the chair and lets us count four teeth is a successful visit. Forcing the remaining sixteen teaches them the dentist is somewhere they lose control. We would rather see them again in a few weeks and get further."
+        }
+      ]
+    },
+    {
+      "heading": "What children’s dentistry covers",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Check-ups and cleans**, adjusted for age and cooperation."
+        },
+        {
+          "type": "p",
+          "text": "**Fissure sealants.** A protective coating painted into the deep grooves of newly erupted adult molars, where food and bacteria collect and brushing struggles to reach. Quick, painless and one of the more effective preventive measures available for children."
+        },
+        {
+          "type": "p",
+          "text": "**Fluoride applications**, where clinically indicated."
+        },
+        {
+          "type": "p",
+          "text": "**Fillings** for decay in baby teeth. This surprises some parents, who assume a tooth destined to fall out does not need treating. Baby teeth hold space for the adult teeth behind them and untreated decay can cause pain, infection and problems with the adult tooth developing underneath."
+        },
+        {
+          "type": "p",
+          "text": "**Monitoring of growth and alignment.** We keep an eye on how the jaw and adult teeth are developing and will raise orthodontic assessment at the appropriate point if it looks worthwhile."
+        },
+        {
+          "type": "p",
+          "text": "**Mouthguards for sport.** With the amount of junior football, netball and rugby league played around Woolooware and Cronulla, custom fitted mouthguards come up often. They fit better, stay in place better and are more comfortable than over the counter versions, which means children actually wear them."
+        }
+      ]
+    },
+    {
+      "heading": "The Child Dental Benefits Schedule",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The CDBS is a federal government scheme that can cover a portion of dental treatment for eligible children."
+        },
+        {
+          "type": "p",
+          "text": "Broadly, it applies to children aged between 0 and 17 for at least one day of the calendar year, where the family receives certain government payments such as Family Tax Benefit Part A. Eligible children have a capped benefit amount available over a two year period, covering services including examinations, X-rays, cleans, fissure sealants, fillings and extractions."
+        },
+        {
+          "type": "p",
+          "text": "Eligibility is determined by Services Australia rather than by us, and families are usually notified directly. If you are unsure, we can check your child’s eligibility when you book."
+        }
+      ],
+      "gate": "cdbs"
+    },
+    {
+      "heading": "Helping at home",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The habits that matter are unremarkable and consistent."
+        },
+        {
+          "type": "p",
+          "text": "Brush twice a day with a fluoride toothpaste appropriate for their age. Supervise brushing until around eight, because coordination for a thorough clean develops later than most people assume. Watch the frequency of sugar rather than only the quantity, since repeated small exposures across a day are harder on enamel than a single serve. Keep sweet drinks away from bedtime."
+        },
+        {
+          "type": "p",
+          "text": "And keep your own dread out of it. Children read adult anxiety accurately. Describing a check-up as something to get through tells them there is something to fear."
+        }
+      ]
+    },
+    {
+      "heading": "Booking for your child",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, in the Cronulla shopping precinct and a short walk from the station."
+        },
+        {
+          "type": "p",
+          "text": "Families across Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Kurnell and Bundeena are welcome."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "children",
+  "image": {
+    "src": "/images/services/childrens-dentistry-cronulla.jpg",
+    "alt": "Children’s Dentistry at The Cronulla Dentists"
+  }
+}

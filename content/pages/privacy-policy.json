@@ -1,0 +1,186 @@
+{
+  "kind": "prose",
+  "meta": {
+    "slug": "privacy-policy",
+    "route": "/privacy-policy/",
+    "title": "Privacy Policy",
+    "metaTitle": "Privacy Policy | The Cronulla Dentists",
+    "metaDescription": "How The Cronulla Dentists collects, uses, stores and protects your personal and health information, and how to access it or make a complaint.",
+    "primaryKeyword": "",
+    "noindex": true
+  },
+  "h1": "Privacy Policy",
+  "intro": [
+    "The Cronulla Dentists is committed to protecting the privacy of your personal and health information.",
+    "This policy explains what information we collect, why we collect it, how we use and store it, and how you can access it or make a complaint. It applies to our practice at 13 Cronulla Street, Cronulla NSW 2230.",
+    "We handle your information in accordance with the Privacy Act 1988 (Cth), the Australian Privacy Principles, and the Health Records and Information Privacy Act 2002 (NSW)."
+  ],
+  "sections": [
+    {
+      "heading": "What information we collect",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Personal information**, including your name, date of birth, contact details, address, Medicare number, health fund details, emergency contact and, where relevant, concession or Department of Veterans’ Affairs details."
+        },
+        {
+          "type": "p",
+          "text": "**Health information**, including your medical and dental history, current medications, allergies, clinical notes, treatment records, X-rays and other diagnostic images, photographs taken for clinical purposes, referrals and correspondence with other health practitioners, and details of treatment provided."
+        },
+        {
+          "type": "p",
+          "text": "**Financial information**, including payment records and details of any payment plan arrangements."
+        },
+        {
+          "type": "p",
+          "text": "**Website information.** When you visit our website we may collect information about your visit, including your IP address, browser type, pages visited and the site you came from. Our website uses cookies. You can disable cookies through your browser settings, though some parts of the site may not function normally as a result."
+        }
+      ]
+    },
+    {
+      "heading": "How we collect it",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Usually directly from you, when you make an appointment, complete a medical history form, attend an appointment, or contact us by phone, email or through our website."
+        },
+        {
+          "type": "p",
+          "text": "We may also collect information from other sources with your consent, including other health practitioners, specialists, Medicare, your health fund, and in the case of a child, from a parent or guardian."
+        }
+      ]
+    },
+    {
+      "heading": "Why we collect it",
+      "nodes": [
+        {
+          "type": "ul",
+          "items": [
+            "To provide dental care and treatment",
+            "To maintain accurate clinical records, as required by law and professional obligations",
+            "To communicate with you about appointments, including reminders",
+            "To process payments and claim from Medicare, health funds or the Department of Veterans’ Affairs",
+            "To refer you to other health practitioners where appropriate",
+            "To meet our legal, regulatory, insurance and professional obligations",
+            "To manage and improve our services"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If you choose not to provide certain information, we may be unable to provide safe or appropriate treatment."
+        }
+      ]
+    },
+    {
+      "heading": "How we use and disclose it",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We do not sell your information, and we do not disclose it for marketing purposes without your consent."
+        },
+        {
+          "type": "p",
+          "text": "We may disclose your information to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Other health practitioners involved in your care, including specialists, your general practitioner and dental laboratories",
+            "Medicare, the Department of Veterans’ Affairs and your health fund, for claiming purposes",
+            "Our practice management software provider and IT service providers, under confidentiality obligations",
+            "Debt collection agencies, where an account remains unpaid, limited to the information required",
+            "Our professional indemnity insurer and legal advisers, where necessary",
+            "Regulatory bodies, where required or authorised by law",
+            "Any person, where required or authorised by law, including under a court order or subpoena"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**Marketing communications.** Where we send you marketing communications you may opt out at any time, and every electronic message will include an unsubscribe option. Opting out of marketing does not affect appointment reminders or clinical communication."
+        }
+      ]
+    },
+    {
+      "heading": "How we store and protect it",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Records are held in electronic and, where applicable, paper form. We take reasonable steps to protect your information from misuse, loss, unauthorised access, modification and disclosure, including secure storage, access controls limited to authorised staff, password protection, and confidentiality obligations on all team members."
+        },
+        {
+          "type": "p",
+          "text": "**Retention.** We are required to retain adult health records for a minimum of seven years from the date of last entry. For patients under 18, records are retained until the patient turns 25. Records may be held longer where required."
+        },
+        {
+          "type": "p",
+          "text": "**Data breaches.** If a data breach occurs that is likely to result in serious harm, we will notify you and the Office of the Australian Information Commissioner in accordance with the Notifiable Data Breaches scheme."
+        }
+      ]
+    },
+    {
+      "heading": "Accessing and correcting your information",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "You have the right to request access to the personal and health information we hold about you, and to request corrections where it is inaccurate, out of date or incomplete."
+        },
+        {
+          "type": "p",
+          "text": "Requests should be made in writing to . We will respond within a reasonable period, generally 30 days. We may require proof of identity, and an administrative fee may apply for providing copies."
+        },
+        {
+          "type": "p",
+          "text": "In limited circumstances we may decline a request, for example where providing access would pose a serious threat to the life or health of any person, or would unreasonably affect the privacy of others. If we decline, we will explain why in writing."
+        }
+      ]
+    },
+    {
+      "heading": "Transferring records",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If you move to another practice, you may request that a copy of your records be transferred. We will need your written authority."
+        }
+      ]
+    },
+    {
+      "heading": "Making a complaint",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If you are concerned about how we have handled your information, please contact us first at . We take complaints seriously and will investigate and respond."
+        },
+        {
+          "type": "p",
+          "text": "If you are not satisfied with our response, you may contact:"
+        },
+        {
+          "type": "p",
+          "text": "**Office of the Australian Information Commissioner** Website: oaic.gov.au Phone: 1300 363 992"
+        },
+        {
+          "type": "p",
+          "text": "**NSW Information and Privacy Commission** Website: ipc.nsw.gov.au Phone: 1800 472 679"
+        }
+      ]
+    },
+    {
+      "heading": "Changes to this policy",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We may update this policy from time to time. The current version will always be available on this page, with the date it was last updated shown at the top."
+        }
+      ]
+    },
+    {
+      "heading": "Contact us",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**The Cronulla Dentists** 13 Cronulla Street, Cronulla NSW 2230 Phone: {{phone}} Email: {{email}}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "gum-disease-treatment-cronulla",
+    "route": "/gum-disease-treatment-cronulla/",
+    "title": "Gum Disease Treatment",
+    "metaTitle": "Gum Disease Treatment in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Gum disease is common, largely painless and the leading cause of adult tooth loss. Assessment and treatment at 13 Cronulla Street, Cronulla.",
+    "primaryKeyword": "gum disease treatment Cronulla, periodontitis Cronulla"
+  },
+  "h1": "Gum Disease Treatment in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Gum Disease Treatment"
+  ],
+  "eyebrow": "THE SILENT ONE",
+  "h2": "Gum Disease Treatment in Cronulla",
+  "hook": "**Gum disease is the leading cause of adult tooth loss, and most people who have it do not know.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Gum disease is the leading cause of tooth loss in adults, and most people who have it do not know."
+    },
+    {
+      "type": "p",
+      "text": "That is not carelessness. It is the nature of the condition. Periodontitis is largely painless until it is advanced. It produces no obvious symptom that would prompt someone to book an appointment. Teeth that have been perfectly comfortable for decades can be sitting in progressively less bone without their owner having any sense of it."
+    },
+    {
+      "type": "p",
+      "text": "Diagnosis at 13 Cronulla Street therefore depends on measurement rather than on how your mouth feels."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "What gum disease actually is",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Teeth are not fixed rigidly into the jaw. Each one is held by a ligament attached to the surrounding bone, with the gum forming a seal around the top."
+        },
+        {
+          "type": "p",
+          "text": "In periodontitis, bacteria below the gum line trigger a sustained inflammatory response. Over time, that response destroys the ligament fibres and the bone supporting the tooth. The gum detaches from the tooth surface, forming a deepening space called a pocket. Pockets are harder to clean than the open tooth surface, so bacteria accumulate further, and the process continues."
+        },
+        {
+          "type": "p",
+          "text": "The critical point is that the bone lost does not come back. Treatment stops the process and stabilises what remains. It does not rebuild what has gone, except in a limited set of cases where regenerative techniques are appropriate."
+        },
+        {
+          "type": "p",
+          "text": "This is why early diagnosis matters so much more here than in most areas of dentistry."
+        }
+      ]
+    },
+    {
+      "heading": "Gingivitis and periodontitis are not the same thing",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Gingivitis is inflammation confined to the gum tissue. It is reversible and treated straightforwardly, and [it has its own page](/gingivitis-cronulla/)."
+        },
+        {
+          "type": "p",
+          "text": "Periodontitis is what some cases of gingivitis progress to. Once bone involvement begins, the condition changes character. It becomes something to be managed long term rather than cured."
+        },
+        {
+          "type": "p",
+          "text": "Most people with gingivitis never progress. Susceptibility varies considerably between individuals, and genetics plays a real part, which is why two people with similar oral hygiene can have very different gum health."
+        }
+      ]
+    },
+    {
+      "heading": "What we look for",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Pocket depth measurements.** A fine probe measures the space between gum and tooth at several points around each tooth. Up to about three millimetres is normal. Deeper readings indicate attachment loss. These numbers are recorded so we can compare them over time."
+        },
+        {
+          "type": "p",
+          "text": "**Bleeding on probing**, which indicates active inflammation."
+        },
+        {
+          "type": "p",
+          "text": "**X-rays**, which show the bone level directly and reveal loss that cannot be seen or felt."
+        },
+        {
+          "type": "p",
+          "text": "**Recession, mobility and furcation involvement**, meaning bone loss reaching the point where the roots of a multi-rooted tooth divide."
+        },
+        {
+          "type": "p",
+          "text": "**Contributing factors**, including smoking, diabetes, medications, family history and stress."
+        },
+        {
+          "type": "p",
+          "text": "A full periodontal assessment takes time and produces a chart rather than an impression. That chart is what treatment planning is based on."
+        }
+      ]
+    },
+    {
+      "heading": "Signs worth acting on",
+      "nodes": [
+        {
+          "type": "ul",
+          "items": [
+            "Gums that bleed when brushing or cleaning between teeth",
+            "Gums that have receded, making teeth look longer",
+            "Persistent bad breath or a bad taste",
+            "Teeth that have become loose or have shifted position",
+            "Gaps opening between teeth that were previously closed",
+            "A change in how your teeth meet when you bite",
+            "Pus around the gum line",
+            "Tenderness or discomfort when chewing"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Several of these appear only once the condition is established. Do not wait for them."
+        }
+      ]
+    },
+    {
+      "heading": "What treatment involves",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Treatment is staged, and it is covered in detail on [our periodontal treatment page](/periodontal-treatment-cronulla/). In outline:"
+        },
+        {
+          "type": "p",
+          "text": "Non-surgical treatment comes first, cleaning the root surfaces below the gum line thoroughly, usually across several appointments with local anaesthetic. This resolves or substantially improves the majority of cases."
+        },
+        {
+          "type": "p",
+          "text": "Reassessment follows, measuring the same points again to see how the tissue has responded."
+        },
+        {
+          "type": "p",
+          "text": "Where deep pockets persist, referral for surgical periodontal treatment may be recommended."
+        },
+        {
+          "type": "p",
+          "text": "Maintenance then continues indefinitely, at intervals of three or four months rather than six, because periodontitis recurs when maintenance lapses."
+        }
+      ]
+    },
+    {
+      "heading": "Risk factors you can influence",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Smoking** is the single largest modifiable risk factor. It worsens the disease, reduces how well treatment works, and masks the bleeding that would otherwise warn you. Patients who stop smoking respond considerably better to treatment."
+        },
+        {
+          "type": "p",
+          "text": "**Diabetes** works in both directions. Poorly controlled blood glucose worsens gum disease, and severe gum disease can make glucose harder to control."
+        },
+        {
+          "type": "p",
+          "text": "**Cleaning between the teeth** consistently, which is where the disease starts."
+        },
+        {
+          "type": "p",
+          "text": "**Attending maintenance appointments**, which is the factor most strongly associated with long term stability."
+        }
+      ]
+    },
+    {
+      "heading": "Getting assessed",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If you have noticed bleeding, recession or movement, or if it has been years since anyone measured your gums, a periodontal assessment is worth booking."
+        },
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, and see patients from Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell, Bundeena and the wider Sutherland Shire."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "gum",
+  "image": {
+    "src": "/images/services/gum-disease-treatment-cronulla.jpg",
+    "alt": "Gum Disease Treatment at The Cronulla Dentists"
+  }
+}

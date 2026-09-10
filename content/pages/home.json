@@ -1,0 +1,176 @@
+{
+  "kind": "home",
+  "meta": {
+    "slug": "home",
+    "route": "/",
+    "title": "Home",
+    "metaTitle": "Dentist in Cronulla | The Cronulla Dentists",
+    "metaDescription": "A new dental practice on Cronulla Street. Gentle, unhurried care for Cronulla, Woolooware, Burraneer, Greenhills Beach and the Sutherland Shire.",
+    "primaryKeyword": "dentist Cronulla"
+  },
+  "slides": [
+    {
+      "headline": "FAMILY DENTISTRY",
+      "sub": "First teeth, teenage check-ups, and everything after. One practice for the whole household."
+    },
+    {
+      "headline": "DENTAL EMERGENCIES",
+      "sub": "Broken tooth, lost filling or pain that will not settle. We hold time aside each day for urgent problems.",
+      "linkText": "What to do first",
+      "gate": "emergency",
+      "linkHref": "/emergency-dentist-cronulla/"
+    },
+    {
+      "headline": "NERVOUS PATIENTS WELCOME",
+      "sub": "Book a conversation before any treatment. Nothing happens in that appointment unless you want it to.",
+      "linkText": "How we work",
+      "linkHref": "/dental-anxiety-cronulla/"
+    }
+  ],
+  "providers": [
+    "DentiCare",
+    "nib",
+    "HICAPS"
+  ],
+  "h1": "The Cronulla Dentists",
+  "h2": "TAKE YOUR TIME, ASK ANYTHING",
+  "h3": "Considered dental care for families across the Sutherland Shire, at 13 Cronulla Street.",
+  "pillars": [
+    {
+      "title": "A Pace That Suits You",
+      "text": "Appointments here are booked with enough room to stop, check in and carry on when you are ready. Raise a hand and we stop, immediately."
+    },
+    {
+      "title": "You Will Understand The Answer",
+      "text": "We tell you what we found and what it means, without the technical shorthand. If it is easier to show you on a screen or hand you a mirror, we will do that instead of talking at you."
+    },
+    {
+      "title": "Time To Ask Questions",
+      "text": "There is no such thing as a silly question about your own mouth. Ask what something costs, why it is recommended, or what happens if you wait."
+    },
+    {
+      "title": "We Will Tell You When To Wait",
+      "text": "Not everything we find needs treating straight away. Where keeping an eye on something is the sensible option, that is what we will recommend, and we will explain why."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "welcome": {
+    "h2": "WELCOME TO THE CRONULLA DENTISTS",
+    "h3": "In the Middle of Cronulla Street",
+    "paragraphs": [
+      "Being in the centre of town changes what a dental appointment costs you in time. A check-up can sit inside a trip you were already making rather than becoming its own event in the day.",
+      "We are a short walk from Cronulla station at the end of the T4 line, so the train works for anyone coming down the line. Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point and Kurnell are all a few minutes away by car. For Bundeena residents, the wharf is a short walk from us, so an appointment can be planned around the ferry.",
+      "Inside, the practice has been fitted out to feel like somewhere you can sit without bracing yourself. The practice is led by Dr Ram Nathwani and Dr Lorna Gladwin, who between them bring more than twenty years of clinical experience across Sydney and the United Kingdom.",
+      "Schedule your visit. Call {{phone}}."
+    ]
+  },
+  "categoryCards": [
+    {
+      "title": "General Dentistry",
+      "text": "Check-ups, cleans, X-rays and fillings. The routine work that keeps small problems small.",
+      "href": "/general-dentistry-cronulla/"
+    },
+    {
+      "title": "Children’s Dentistry",
+      "text": "Short, calm first visits, and the Child Dental Benefits Schedule explained properly.",
+      "href": "/childrens-dentistry-cronulla/"
+    },
+    {
+      "title": "Emergency Dentistry",
+      "text": "Pain, swelling, breakages and knocked out teeth. What to do before you reach us, and how quickly we can see you.",
+      "href": "/emergency-dentist-cronulla/",
+      "gate": "emergency",
+      "fallback": {
+        "title": "Cosmetic Dentistry",
+        "text": "Whitening, veneers and conservative options for the appearance of your smile.",
+        "href": "/cosmetic-dentistry-cronulla/"
+      }
+    },
+    {
+      "title": "Restorative Dentistry",
+      "text": "Crowns, bridges, implants and dentures to repair and replace damaged or missing teeth.",
+      "href": "/restorative-dentistry-cronulla/"
+    }
+  ],
+  "treatments": {
+    "h2": "Treatments Available at Cronulla",
+    "h3": "Most of what you need, in one place, from the same team.",
+    "tiles": [
+      {
+        "title": "Root Canal Therapy",
+        "text": "Where infection reaches the nerve, the alternative is usually losing the tooth. This is the treatment that saves it.",
+        "href": "/root-canal-therapy-cronulla/"
+      },
+      {
+        "title": "Wisdom Teeth Removal",
+        "text": "Not every wisdom tooth needs to come out. Assessment first, and an honest answer about whether yours does.",
+        "href": "/wisdom-teeth-removal-cronulla/"
+      },
+      {
+        "title": "Dental Crowns and Bridges",
+        "text": "A crown holds a damaged tooth together. A bridge spans a gap. Two different jobs, both well established.",
+        "href": "/dental-crowns-bridges-cronulla/"
+      },
+      {
+        "title": "Cosmetic Dentistry",
+        "text": "Whitening, veneers, bonding and reshaping. Usually the conservative option achieves more than people expect.",
+        "href": "/cosmetic-dentistry-cronulla/"
+      },
+      {
+        "title": "Periodontal Treatment",
+        "text": "Staged treatment for gum disease, from cleaning below the gum line through to ongoing maintenance.",
+        "href": "/periodontal-treatment-cronulla/"
+      },
+      {
+        "title": "Tooth Coloured Fillings",
+        "text": "Composite bonds to the tooth, so less healthy structure has to be removed than with older materials.",
+        "href": "/tooth-coloured-fillings-cronulla/"
+      }
+    ]
+  },
+  "iconBlocks": [
+    {
+      "title": "Your First Visit",
+      "text": "An examination, a professional clean, X-rays where clinically indicated, and a conversation about what we found. You will leave knowing what your options are, including the option of doing nothing for now."
+    },
+    {
+      "title": "Bringing The Kids",
+      "text": "Bring them earlier than you think, around the first birthday. There is almost nothing to examine at that age, which is exactly the point. The dentist becomes ordinary before there is any reason for it not to be."
+    },
+    {
+      "title": "Gum Health",
+      "text": "Bleeding when you brush is not from brushing too hard. It is the earliest sign of gum disease and the stage that can still be fully reversed, which is why we measure gums rather than glance at them."
+    },
+    {
+      "title": "Sports Mouthguards",
+      "text": "Between junior league at Woolooware and everything played across the Shire on weekends, we make a lot of these. A custom guard stays in, which means it actually gets worn."
+    },
+    {
+      "title": "Grinding And Clenching",
+      "text": "Flattened edges, jaw ache on waking, headaches around the temples. Most people have no idea they grind until the wear shows up. A night guard takes the damage instead of your teeth."
+    },
+    {
+      "title": "Dentures",
+      "text": "Full, partial and implant stabilised. Modern dentures fit considerably better than their reputation suggests, and we will be straight with you about the adjustment period."
+    }
+  ],
+  "paymentBand": {
+    "h2": "NO SURPRISES ON THE INVOICE",
+    "lines": [
+      "You will have a written estimate before any treatment begins, with your likely out of pocket amount after any health fund rebate.",
+      "Where a plan has several parts, we can prioritise what is urgent and schedule the rest over months."
+    ],
+    "logo": "DentiCare"
+  },
+  "note": {
+    "h2": "WHY WE OPENED IN CRONULLA",
+    "h3": "From the team at The Cronulla Dentists",
+    "paragraphs": [
+      "A steady number of people in Cronulla, Woolooware, Burraneer and Greenhills Beach were travelling out of the area for their dental care, and Bundeena residents were doing it by ferry. Opening on Cronulla Street puts the practice where those patients already are.",
+      "We wanted to run a practice the way we think dentistry should be run, which in practice means longer appointments, written estimates before treatment begins, and recommendations we would be comfortable defending to any other dentist.",
+      "It is a small team by design. You will see the same dentist each visit, which matters more than it sounds when treatment runs across several appointments.",
+      "It would be a pleasure to meet you. Call or email us and choose a time that suits."
+    ],
+    "signoff": "Happy healthy smiles."
+  }
+}

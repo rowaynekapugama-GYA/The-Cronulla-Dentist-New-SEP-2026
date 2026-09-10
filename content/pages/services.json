@@ -1,0 +1,145 @@
+{
+  "kind": "hub",
+  "meta": {
+    "slug": "services",
+    "route": "/services/",
+    "title": "Services",
+    "metaTitle": "Dental Services in Cronulla | The Cronulla Dentists",
+    "metaDescription": "General, children’s, cosmetic, restorative and emergency dentistry at 13 Cronulla Street, Cronulla. Serving Woolooware, Burraneer and the Sutherland Shire.",
+    "primaryKeyword": "dental services Cronulla",
+    "metaDescriptionGated": "General, children’s, cosmetic and restorative dentistry at 13 Cronulla Street, Cronulla. Serving Woolooware, Burraneer and the Sutherland Shire."
+  },
+  "h1": "Our Dental Services",
+  "intro": "At The Cronulla Dentists we are pleased to offer you a full range of dental services including:",
+  "serviceList": [
+    "General dentistry",
+    "Cosmetic dentistry",
+    "Children’s dentistry",
+    "Teeth whitening",
+    "Wisdom teeth removal",
+    "Crowns and bridges",
+    "Mouth and night guards",
+    "Dental veneers",
+    "Dental implants",
+    "White fillings",
+    "Hygiene treatments",
+    "Periodontal treatment",
+    "Anti-snoring and sleep apnoea",
+    "Dentures",
+    "Root canal therapy"
+  ],
+  "closingLine": "To find out how we can help with your dental needs, please call us on {{phone}}.",
+  "featured": [
+    {
+      "title": "Emergency Dentistry",
+      "href": "/emergency-dentist-cronulla/",
+      "text": "",
+      "gate": "emergency",
+      "fallback": {
+        "title": "General Dentistry",
+        "href": "/general-dentistry-cronulla/",
+        "text": ""
+      }
+    },
+    {
+      "title": "Children’s Dentistry",
+      "href": "/childrens-dentistry-cronulla/",
+      "text": ""
+    },
+    {
+      "title": "Dental Anxiety",
+      "href": "/dental-anxiety-cronulla/",
+      "text": ""
+    }
+  ],
+  "blurbs": [
+    {
+      "title": "Emergency Dentistry",
+      "text": "Pain, swelling, a broken tooth or a lost crown. We keep appointment time free each day for problems that cannot wait.",
+      "href": "/emergency-dentist-cronulla/",
+      "gate": "emergency"
+    },
+    {
+      "title": "Dental Anxiety",
+      "text": "If dental visits are difficult for you, say so when you book. We schedule those appointments differently and agree a signal to stop.",
+      "href": "/dental-anxiety-cronulla/"
+    },
+    {
+      "title": "Root Canal Therapy",
+      "text": "When infection reaches the nerve, the choice is between saving the tooth and losing it. This is how it gets saved.",
+      "href": "/root-canal-therapy-cronulla/"
+    },
+    {
+      "title": "Dentures",
+      "text": "Full, partial and implant stabilised dentures, with an honest explanation of the adjustment period rather than a sales pitch.",
+      "href": "/dentures-cronulla/"
+    },
+    {
+      "title": "Gingivitis",
+      "text": "Bleeding gums are the earliest sign of gum disease, and the only stage that can still be completely reversed.",
+      "href": "/gingivitis-cronulla/"
+    },
+    {
+      "title": "Wisdom Teeth Removal",
+      "text": "Not all wisdom teeth need removing. We assess with imaging first and tell you plainly which category yours falls into.",
+      "href": "/wisdom-teeth-removal-cronulla/"
+    },
+    {
+      "title": "Periodontal Treatment",
+      "text": "Staged treatment for gum disease, from cleaning root surfaces below the gum line through to maintenance every three or four months.",
+      "href": "/periodontal-treatment-cronulla/"
+    },
+    {
+      "title": "Anti-Snoring and Sleep Apnoea",
+      "text": "Dental appliances that may form part of a medically directed treatment plan. Diagnosis comes from your doctor, not from us.",
+      "href": "/anti-snoring-sleep-apnoea-cronulla/"
+    },
+    {
+      "title": "Hygiene Treatments",
+      "text": "Scaling removes hardened deposits that no amount of brushing will shift, and the appointment doubles as an early warning system for your gums.",
+      "href": "/hygiene-treatments-cronulla/"
+    },
+    {
+      "title": "Dental Implants",
+      "text": "A titanium post placed in the jaw to support a replacement tooth. Suitability depends on bone volume, gum health and general health.",
+      "href": "/dental-implants-cronulla/"
+    },
+    {
+      "title": "Mouth and Night Guards",
+      "text": "Custom fitted guards for contact sport, and night guards that take the damage from grinding instead of your teeth.",
+      "href": "/mouth-night-guards-cronulla/"
+    }
+  ],
+  "categoryCards": [
+    {
+      "title": "General Dentistry",
+      "text": "Check-ups, cleans, fillings and the preventive work that underpins everything else.",
+      "href": "/general-dentistry-cronulla/"
+    },
+    {
+      "title": "Children’s Dentistry",
+      "text": "Patient, unhurried care for children, and the Child Dental Benefits Schedule explained.",
+      "href": "/childrens-dentistry-cronulla/"
+    },
+    {
+      "title": "Cosmetic Dentistry",
+      "text": "Whitening, veneers and conservative options for the appearance of your smile.",
+      "href": "/cosmetic-dentistry-cronulla/"
+    },
+    {
+      "title": "Restorative Dentistry",
+      "text": "Crowns, bridges, implants, dentures and root canal therapy.",
+      "href": "/restorative-dentistry-cronulla/"
+    }
+  ],
+  "closing": {
+    "h2": "Most treatment stays under one roof",
+    "paragraphs": [
+      "One of the quieter frustrations of dental care is being referred elsewhere. You attend a check-up, something is found, and you are handed a phone number for a practice on the other side of the Shire. Two more appointments, a new set of forms, and a dentist who has never met you.",
+      "The Cronulla Dentists is set up to keep the majority of treatment in one place. From routine check-ups through to crowns, implants and root canal therapy, most of what patients need is available at 13 Cronulla Street from the same team you see for a clean.",
+      "Where a referral genuinely serves you better, we will say so and arrange it properly. It will not be the default answer.",
+      "We see patients from Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell, Bundeena and across the Sutherland Shire. If you are not sure which appointment you need, call and describe the problem. Reception can book you the right length of visit rather than leaving you to guess from a list of service names."
+    ],
+    "closingLine": "To arrange an appointment, call us on {{phone}}."
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "payment-plans",
+    "route": "/payment-plans/",
+    "title": "Payment Plans",
+    "metaTitle": "Payment Plans | DentiCare, Zip & Afterpay | Cronulla",
+    "metaDescription": "Spread the cost of dental treatment with DentiCare, Zip or Afterpay at 13 Cronulla Street, Cronulla. How each option works and what to consider first.",
+    "primaryKeyword": "dental payment plans Cronulla, DentiCare Cronulla",
+    "metaTitleGated": "Payment Plans | DentiCare | Cronulla",
+    "metaDescriptionGated": "Spread the cost of dental treatment with DentiCare at 13 Cronulla Street, Cronulla. How it works and what to consider first."
+  },
+  "h1": "Payment Plans in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Payment Plans"
+  ],
+  "eyebrow": "SPREAD THE COST",
+  "h2": "Payment Plans at The Cronulla Dentists",
+  "hook": "**Need to spread the cost of treatment? Three options are available, each suited to a different situation.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Dental treatment is often needed at an inconvenient time, and paying for a larger treatment plan in one amount is not realistic for everyone."
+    },
+    {
+      "type": "p",
+      "text": "Three payment plan options are available at 13 Cronulla Street. Each is provided by a third party rather than by us, and each suits a different situation."
+    },
+    {
+      "type": "p",
+      "text": "Before any of them, two things worth saying."
+    },
+    {
+      "type": "p",
+      "text": "**You will always get a written estimate first**, setting out what is recommended, what each item costs and what your likely out of pocket amount is after any health fund rebate. Nothing proceeds until you have that."
+    },
+    {
+      "type": "p",
+      "text": "**Staging treatment costs nothing.** Where a plan has several parts, we can often prioritise what is urgent, complete that now, and schedule the rest over months. This is a legitimate clinical approach and it is worth considering before taking on a payment arrangement. Ask us."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "DentiCare",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "A payment plan designed specifically for dental treatment, which makes it the option best suited to larger treatment plans."
+        },
+        {
+          "type": "p",
+          "text": "Treatment cost is divided into regular instalments, typically by direct debit, over a term agreed at the outset. Terms can extend further than the buy now pay later services allow, which brings the individual instalments down."
+        },
+        {
+          "type": "p",
+          "text": "It suits implant treatment, extensive restorative work, orthodontics and multi stage plans."
+        },
+        {
+          "type": "p",
+          "text": "Approval, terms, fees and eligibility are determined by DentiCare, not by us."
+        }
+      ]
+    },
+    {
+      "heading": "Zip",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Approved applicants can pay for treatment over time, with the available limit and repayment terms set by Zip when you apply."
+        },
+        {
+          "type": "p",
+          "text": "It suits mid range amounts and patients who already hold a Zip account."
+        },
+        {
+          "type": "p",
+          "text": "Account fees and interest may apply depending on the product and how you use it. Read the terms."
+        }
+      ],
+      "gate": "zipAfterpay"
+    },
+    {
+      "heading": "Afterpay",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Splits the cost into instalments over a shorter period, typically several weeks."
+        },
+        {
+          "type": "p",
+          "text": "It suits smaller amounts, such as a check-up and clean, a filling or a mouthguard. It is not designed for larger treatment plans, and the repayment period is short enough that the instalments on a substantial amount are unlikely to be manageable."
+        },
+        {
+          "type": "p",
+          "text": "Late fees apply if a payment is missed."
+        }
+      ],
+      "gate": "zipAfterpay"
+    },
+    {
+      "heading": "Things to consider before you apply",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "These are consumer credit and payment products, and it is worth approaching them the way you would any other financial commitment."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**Approval is decided by the provider**, not by the practice. We cannot influence it and we cannot guarantee it.",
+            "**Read the provider’s terms**, including fees, interest where applicable, late payment charges and the consequences of missing an instalment.",
+            "**Check the repayments fit your circumstances** over the full term, not just the first month.",
+            "**Some providers report to credit reporting bodies.** Missed payments may affect your credit file.",
+            "**Claim your health fund rebate first** where possible, so you are only financing the gap rather than the full amount."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If you are not sure which option suits, reception can talk through how each tends to work in practice. What they cannot do is advise you on whether taking on the arrangement is a good idea for your circumstances. That is a decision for you, and if the amounts are significant, a financial counsellor or adviser is the right person to ask."
+        }
+      ]
+    },
+    {
+      "heading": "Health funds first",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Before any payment plan, check what your extras cover contributes."
+        },
+        {
+          "type": "p",
+          "text": "We use HICAPS, so bring your card and you can claim on the spot and pay only the gap. If you would like to check with your fund beforehand, ask us for the item numbers on your treatment plan and call them for an exact figure."
+        },
+        {
+          "type": "p",
+          "text": "More detail is on [our finances page](/finances/)."
+        }
+      ]
+    },
+    {
+      "heading": "Talking about cost",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Nobody at this practice will make you feel awkward for asking what something costs or saying an amount is beyond you at the moment. It is a normal part of the conversation and we would much rather have it than have you quietly postpone treatment."
+        },
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla. Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "other",
+  "image": {
+    "src": "/images/services/payment-plans.jpg",
+    "alt": "Payment Plans at The Cronulla Dentists"
+  },
+  "gatedText": {
+    "hook": "Need to spread the cost of treatment? A payment plan option is available for larger treatment plans.",
+    "bodyIntro": "A payment plan option is available at 13 Cronulla Street. It is provided by a third party rather than by us."
+  }
+}

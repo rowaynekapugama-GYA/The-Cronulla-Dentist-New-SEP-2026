@@ -1,0 +1,173 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "root-canal-therapy-cronulla",
+    "route": "/root-canal-therapy-cronulla/",
+    "title": "Root Canal Therapy",
+    "metaTitle": "Root Canal Therapy in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Root canal therapy saves a tooth with an infected nerve. What the procedure involves, what to expect afterwards, at 13 Cronulla Street, Cronulla.",
+    "primaryKeyword": "root canal Cronulla, root canal therapy Cronulla"
+  },
+  "h1": "Root Canal Therapy in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Root Canal Therapy"
+  ],
+  "eyebrow": "SAVING THE TOOTH",
+  "h2": "Root Canal Therapy in Cronulla",
+  "hook": "**Root canal therapy has the worst reputation in dentistry, and the reputation is decades out of date.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Root canal therapy has the worst reputation in dentistry, and the reputation is decades out of date."
+    },
+    {
+      "type": "p",
+      "text": "The comparison people carry in their heads is with a routine filling. Measured against that, it is a longer appointment. Measured against the thing it is actually an alternative to, which is losing the tooth, it compares rather well."
+    },
+    {
+      "type": "p",
+      "text": "The pain people associate with root canals is generally the pain that brings them in. The treatment is what stops it."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Why a tooth needs one",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Inside every tooth is a chamber containing nerve tissue and blood vessels, running down through the roots. When bacteria reach that space, the tissue becomes inflamed and then infected."
+        },
+        {
+          "type": "p",
+          "text": "It gets there through deep decay, a crack, trauma to the tooth, or occasionally through repeated dental work over many years."
+        },
+        {
+          "type": "p",
+          "text": "Once the nerve tissue inside a tooth is infected, it does not recover. The body cannot clear an infection in that space, because there is no meaningful blood supply left to deliver an immune response. Antibiotics may settle the surrounding swelling temporarily, but they do not resolve what is happening inside the tooth. The infection then spreads out of the root tip into the surrounding bone, forming an abscess."
+        },
+        {
+          "type": "p",
+          "text": "At that point there are two options. Remove the tooth, or remove the infected tissue from inside it and seal it. The second is root canal therapy."
+        }
+      ]
+    },
+    {
+      "heading": "Signs you may need one",
+      "nodes": [
+        {
+          "type": "ul",
+          "items": [
+            "Severe or throbbing toothache, particularly pain that wakes you at night",
+            "Prolonged sensitivity to heat, or pain that lingers well after a hot or cold stimulus is removed",
+            "Pain when biting or applying pressure to a particular tooth",
+            "A tooth that has darkened compared with its neighbours",
+            "Swelling of the gum or face",
+            "A pimple like spot on the gum near a tooth, which may discharge and taste unpleasant"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Not all of these appear in every case. Some teeth with dead nerves cause no symptoms at all and are found on a routine X-ray, which is one reason those X-rays are taken."
+        },
+        {
+          "type": "p",
+          "text": "If the pain stops suddenly on its own, that is not reassurance. It often means the nerve has died. The infection continues regardless."
+        }
+      ]
+    },
+    {
+      "heading": "What the procedure involves",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Anaesthetic first**, and we take the time to confirm you are properly numb before starting. Teeth with active infection can be harder to numb, and if the first approach is not working there are alternatives. Tell us rather than tolerating it."
+        },
+        {
+          "type": "p",
+          "text": "**Isolation.** A small rubber sheet is placed to keep the tooth dry and clean and to stop anything reaching the back of your throat. Most patients find it makes the appointment more comfortable rather than less."
+        },
+        {
+          "type": "p",
+          "text": "**Access and cleaning.** An opening is made through the top of the tooth. The infected tissue is removed from the canals, which are then cleaned, shaped and disinfected. This is the part that takes time, particularly on molars, which have several canals of varying shape."
+        },
+        {
+          "type": "p",
+          "text": "**Filling and sealing.** The canals are filled with an inert material and sealed to prevent bacteria re-entering."
+        },
+        {
+          "type": "p",
+          "text": "**Restoration.** The access opening is restored, and in most cases, particularly on back teeth, a crown is recommended. A root treated tooth has lost internal structure and is more prone to fracturing under chewing load. The crown is not an optional extra, it is usually what determines whether the tooth survives long term."
+        },
+        {
+          "type": "p",
+          "text": "Treatment is completed over one to three appointments depending on the tooth and the extent of infection."
+        }
+      ]
+    },
+    {
+      "heading": "Afterwards",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Expect the tooth to feel tender to bite on for a few days, sometimes up to a week. This is the ligament around the root settling, not a sign of failure. Ordinary pain relief usually manages it."
+        },
+        {
+          "type": "p",
+          "text": "Avoid chewing on that side until the permanent restoration is fitted, particularly if a temporary filling is in place."
+        },
+        {
+          "type": "p",
+          "text": "Root canal treatment has good long term success rates when the tooth is properly restored afterwards and maintained. It is not guaranteed. A small proportion of treated teeth develop persistent or recurrent infection and may need retreatment, a surgical procedure at the root tip, or eventual extraction."
+        }
+      ]
+    },
+    {
+      "heading": "When we refer",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Some cases are more predictably managed by an endodontist, a dentist with specialist registration in root canal treatment. Curved or calcified canals, retreatment of a previously treated tooth, and unusual anatomy are common reasons."
+        },
+        {
+          "type": "p",
+          "text": "We will tell you honestly if yours is one of those cases rather than attempting it and referring afterwards."
+        }
+      ]
+    },
+    {
+      "heading": "The alternative",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The alternative to root canal therapy is extraction, which is faster and cheaper up front. It then leaves a gap, and replacing a tooth with an implant or bridge generally costs more than saving it would have."
+        },
+        {
+          "type": "p",
+          "text": "Keeping your own tooth is usually the better outcome where it is realistic. Sometimes it is not, and we will say so."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla. If you are in significant pain, tell reception when you call and we will prioritise you."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "restorative",
+  "image": {
+    "src": "/images/services/root-canal-therapy-cronulla.jpg",
+    "alt": "Root Canal Therapy at The Cronulla Dentists"
+  }
+}

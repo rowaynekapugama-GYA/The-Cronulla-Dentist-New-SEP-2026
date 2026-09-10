@@ -1,0 +1,156 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "dental-anxiety-cronulla",
+    "route": "/dental-anxiety-cronulla/",
+    "title": "Dental Anxiety",
+    "metaTitle": "Dental Anxiety | Nervous Patients | The Cronulla Dentists",
+    "metaDescription": "If the dentist makes you anxious, we work differently. Consultation only visits, agreed stop signals and unhurried care at 13 Cronulla Street, Cronulla.",
+    "primaryKeyword": "nervous patients dentist Cronulla, dental anxiety Cronulla"
+  },
+  "h1": "Dental Anxiety in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Dental Anxiety"
+  ],
+  "eyebrow": "YOU ARE NOT ALONE IN THIS",
+  "h2": "Dental Anxiety and Nervous Patients in Cronulla",
+  "hook": "**Been putting off the dentist? You are in a very large group, and we work differently for patients who find it difficult.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "If you have been putting off a dental appointment, you are in a very large group."
+    },
+    {
+      "type": "p",
+      "text": "Dental anxiety is one of the most common reasons people avoid health care of any kind. For some it is mild reluctance. For others it is severe enough that they have not been to a dentist in a decade, and the thought of booking produces a physical reaction."
+    },
+    {
+      "type": "p",
+      "text": "We are not going to tell you that is irrational, or that modern dentistry means there is nothing to worry about. Anxiety does not respond to being argued with. What it does respond to is control, predictability and time, and those are things a dental practice can actually provide."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Why the anxiety exists",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Understanding where it comes from helps, because it points to what needs to be different."
+        },
+        {
+          "type": "p",
+          "text": "**A previous bad experience.** Usually the biggest factor. An injection that did not take. A dentist who continued when you signalled to stop. Being made to feel foolish. One appointment like that can shape the next twenty years."
+        },
+        {
+          "type": "p",
+          "text": "**Loss of control.** You are lying back, unable to speak, with someone working in a part of your body you cannot see. That is inherently vulnerable, and it accounts for a lot of what people describe as fear of pain."
+        },
+        {
+          "type": "p",
+          "text": "**Embarrassment.** A surprising number of people are not frightened of the treatment at all. They are frightened of being judged for the state of their teeth or the length of the gap since their last visit."
+        },
+        {
+          "type": "p",
+          "text": "**Fear of cost.** Not knowing what an appointment will lead to financially is its own kind of dread."
+        },
+        {
+          "type": "p",
+          "text": "**The sounds and smells.** Clinical environments carry strong associations, and the drill in particular is a trigger for many people."
+        }
+      ]
+    },
+    {
+      "heading": "How we work with nervous patients",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Tell us when you book.** This is the single most useful thing you can do. When we know in advance, we schedule differently, plan a slower appointment and brief the team before you arrive. You will not have to explain yourself at the front desk."
+        },
+        {
+          "type": "p",
+          "text": "**Come in for a conversation first.** You can book an appointment where no clinical treatment happens at all. You sit in a normal chair, meet the dentist, look at the room, and talk about what has been difficult in the past. Some patients need two or three of these before an examination. That is a perfectly reasonable use of our time."
+        },
+        {
+          "type": "p",
+          "text": "**Agree a stop signal.** A raised hand means we stop. Not at a convenient point, immediately. This one arrangement resolves a great deal of anxiety, because the fear is usually about not being able to stop rather than about the procedure itself."
+        },
+        {
+          "type": "p",
+          "text": "**Know what is happening before it happens.** We describe each step before we do it. No unexpected sensations, no instruments appearing without warning. If you would rather not know the details, tell us and we will keep the narration minimal instead."
+        },
+        {
+          "type": "p",
+          "text": "**Break treatment into shorter appointments.** Twenty minutes at a time, several times, is often far more manageable than one long session, even though it takes more visits."
+        },
+        {
+          "type": "p",
+          "text": "**Bring what helps.** Headphones and your own music. Sunglasses against the light. A friend or family member in the room. Something to hold. None of this is unusual here."
+        },
+        {
+          "type": "p",
+          "text": "**No lectures. Ever.** If it has been fifteen years, we are interested in today. Nobody at this practice will comment on the gap or make you feel foolish for it. This is not a courtesy, it is the policy."
+        }
+      ]
+    },
+    {
+      "heading": "Managing discomfort",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Local anaesthetic is very effective when given properly and given time to work. Rushing the numbing is a common cause of the bad experiences people carry with them, so we allow time and check before starting rather than assuming."
+        },
+        {
+          "type": "p",
+          "text": "Topical numbing gel can be applied before an injection, so you do not feel the needle itself."
+        },
+        {
+          "type": "p",
+          "text": "If you have had an injection fail in the past, tell us. There are technical reasons this happens and there are ways around it."
+        }
+      ]
+    },
+    {
+      "heading": "About the cost question",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If the financial uncertainty is the anxious part, we handle that directly. You will get a written estimate before treatment begins, and we can prioritise what is genuinely urgent and stage the rest over time. Payment plans through DentiCare are available."
+        },
+        {
+          "type": "p",
+          "text": "You are allowed to ask what something costs. It is a normal question."
+        }
+      ]
+    },
+    {
+      "heading": "Taking the first step",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The hardest appointment is the one you book, not the one you attend. Most nervous patients report that the anticipation was worse than the visit."
+        },
+        {
+          "type": "p",
+          "text": "If you would rather not phone, [book online]({{cta}}) or email and note that you are anxious."
+        },
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, and we see nervous patients from across Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "general",
+  "image": {
+    "src": "/images/services/dental-anxiety-cronulla.jpg",
+    "alt": "Dental Anxiety at The Cronulla Dentists"
+  }
+}

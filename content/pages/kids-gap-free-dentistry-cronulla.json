@@ -1,0 +1,141 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "kids-gap-free-dentistry-cronulla",
+    "route": "/kids-gap-free-dentistry-cronulla/",
+    "title": "Kids’ Gap Free Dentistry",
+    "metaTitle": "Kids’ Gap Free Dentistry | The Cronulla Dentists",
+    "metaDescription": "How the Child Dental Benefits Schedule works and what gap free means for eligible children at 13 Cronulla Street, Cronulla. Check your eligibility.",
+    "primaryKeyword": "gap free dentistry kids Cronulla, CDBS dentist Cronulla",
+    "gate": "cdbs"
+  },
+  "h1": "Kids’ Gap Free Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Kids’ Gap Free Dentistry"
+  ],
+  "eyebrow": "COST SHOULD NOT BE THE BARRIER",
+  "h2": "Gap Free Dentistry for Children in Cronulla",
+  "hook": "**Eligible for the Child Dental Benefits Schedule? Here is what that covers and what it means for you.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Cost should not be the reason a child’s teeth go unchecked."
+    },
+    {
+      "type": "p",
+      "text": "For eligible families, the Child Dental Benefits Schedule can cover a substantial portion of a child’s dental care, and where treatment falls within the schedule we bulk bill it, so there is nothing to pay on the day."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "What the Child Dental Benefits Schedule is",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The CDBS is a federal government programme that provides a capped benefit for basic dental services for eligible children."
+        },
+        {
+          "type": "p",
+          "text": "**Who is eligible.** Broadly, a child aged between 0 and 17 for at least one day of the calendar year, who is eligible for Medicare, and whose family receives a qualifying government payment such as Family Tax Benefit Part A. Some other payments also qualify."
+        },
+        {
+          "type": "p",
+          "text": "**How much is available.** A capped benefit per eligible child, available over a two year period. The cap and the assessment period are set by the government and can change."
+        },
+        {
+          "type": "p",
+          "text": "**What it covers.** Examinations, X-rays, cleans, fluoride applications, fissure sealants, fillings, root canal treatment and extractions."
+        },
+        {
+          "type": "p",
+          "text": "**What it does not cover.** Orthodontic treatment, cosmetic dental work, and any services provided in hospital."
+        },
+        {
+          "type": "p",
+          "text": "Eligibility is determined by Services Australia, not by us. Families are usually notified directly at the start of the year, and you can check your child’s balance through your Medicare online account, the Express Plus Medicare app, or by calling Services Australia."
+        },
+        {
+          "type": "p",
+          "text": "If you are not sure, tell us when you book and we can check the balance for you before the appointment."
+        }
+      ]
+    },
+    {
+      "heading": "What gap free means here",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Where your child is eligible and the treatment they need falls within the schedule, we bulk bill. You pay nothing on the day and we claim directly."
+        },
+        {
+          "type": "p",
+          "text": "Two things worth knowing so there are no surprises."
+        },
+        {
+          "type": "p",
+          "text": "**The benefit is capped.** If your child needs more treatment than the remaining balance covers, we will tell you before proceeding and give you a written estimate for anything beyond it. You will never find out about a cost after the fact."
+        },
+        {
+          "type": "p",
+          "text": "**Some treatment sits outside the schedule.** Orthodontics is the most common example. If your child needs something the CDBS does not cover, we will explain what it is, why it is recommended and what it costs."
+        }
+      ]
+    },
+    {
+      "heading": "If your child is not eligible",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Most children are not, and there are still options."
+        },
+        {
+          "type": "p",
+          "text": "Health fund extras cover commonly includes children’s dental, and some funds offer no gap arrangements for preventive appointments for children. We use HICAPS, so you can claim on the spot."
+        },
+        {
+          "type": "p",
+          "text": "Beyond that, the most cost effective thing available for a child’s teeth is a routine check-up. Preventive care is inexpensive. Untreated decay is not."
+        }
+      ]
+    },
+    {
+      "heading": "Bringing your child in",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We treat first visits as being about the experience as much as the examination. Short, unhurried, everything explained at their level, and no pressure to complete a full examination if a child is not ready. A visit where they simply sit in the chair and let us count a few teeth is a good outcome, and we will get further next time."
+        },
+        {
+          "type": "p",
+          "text": "There is more on [our children’s dentistry page](/childrens-dentistry-cronulla/) about what a first appointment involves and when to bring them in."
+        }
+      ]
+    },
+    {
+      "heading": "Booking",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla, a short walk from the station, and we see families from Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena."
+        },
+        {
+          "type": "p",
+          "text": "Bring your Medicare card and, if applicable, your child’s CDBS details."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "children",
+  "image": {
+    "src": "/images/services/kids-gap-free-dentistry-cronulla.jpg",
+    "alt": "Kids’ Gap Free Dentistry at The Cronulla Dentists"
+  }
+}

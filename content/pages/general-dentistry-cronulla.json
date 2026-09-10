@@ -1,0 +1,153 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "general-dentistry-cronulla",
+    "route": "/general-dentistry-cronulla/",
+    "title": "General Dentistry",
+    "metaTitle": "General Dentistry in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Check-ups, cleans, X-rays and fillings at 13 Cronulla Street. Unhurried general dentistry for Cronulla, Woolooware, Burraneer and the Sutherland Shire.",
+    "primaryKeyword": "general dentistry Cronulla"
+  },
+  "h1": "General Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "General Dentistry"
+  ],
+  "eyebrow": "THE APPOINTMENT THAT PREVENTS THE OTHERS",
+  "h2": "Check-ups, Cleans and Everyday Dental Care",
+  "hook": "**Almost every expensive dental problem began as a cheap one that nobody caught. Regular check-ups are how you stay on the cheap side of that line.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "General dentistry is the unglamorous part of dental care, and it is also the part that determines almost everything else."
+    },
+    {
+      "type": "p",
+      "text": "Nearly every large dental problem started as a small one that nobody noticed. A hairline crack, a patch of early decay, a gum margin beginning to recede. None of these hurt at the point where they are easy and inexpensive to deal with. By the time something hurts, the options have usually narrowed and the cost has usually gone up."
+    },
+    {
+      "type": "p",
+      "text": "That is the entire argument for regular check-ups, and it is why general dentistry sits at the centre of what we do at 13 Cronulla Street."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "What happens at a check-up",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "A general check-up at our Cronulla practice is unhurried by design. Rushing this appointment defeats its purpose."
+        },
+        {
+          "type": "p",
+          "text": "**We look, properly.** An examination of the teeth, gums, tongue, cheeks, palate and the soft tissues of the mouth, including a check for anything unusual that warrants further attention."
+        },
+        {
+          "type": "p",
+          "text": "**X-rays where indicated.** Some decay develops between teeth or under existing fillings where it simply cannot be seen. Digital X-rays use a low radiation dose and are taken when clinically appropriate rather than automatically at every visit."
+        },
+        {
+          "type": "p",
+          "text": "**A professional clean.** Scaling to remove hardened plaque that brushing cannot shift, followed by polishing. Fluoride application where it is likely to help."
+        },
+        {
+          "type": "p",
+          "text": "**A conversation.** We tell you what we found, what it means, and what your options are. Including doing nothing for now, which is sometimes a reasonable choice and will be presented as one when it is."
+        },
+        {
+          "type": "p",
+          "text": "You will not be handed a treatment plan and asked to commit on the spot."
+        }
+      ]
+    },
+    {
+      "heading": "How often should you come in",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The standard advice is every six months, and for most people that works. It is not universal."
+        },
+        {
+          "type": "p",
+          "text": "Patients with a history of gum disease, a high decay rate, dry mouth, certain medical conditions or extensive existing dental work may benefit from more frequent visits. Others with consistently healthy results and good home care can sometimes stretch the interval."
+        },
+        {
+          "type": "p",
+          "text": "We will suggest a schedule based on what we actually see in your mouth, and we will explain the reasoning."
+        }
+      ]
+    },
+    {
+      "heading": "What general dentistry covers here",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Fillings.** Tooth coloured composite fillings that bond to the tooth structure and match the surrounding enamel. Used for decay, small chips and worn areas."
+        },
+        {
+          "type": "p",
+          "text": "**Wisdom teeth.** Assessment of whether wisdom teeth have room to come through, and removal where they are impacted, causing crowding, or repeatedly becoming infected. Straightforward cases are handled here. More complex cases may warrant referral, and we will tell you honestly which category yours falls into."
+        },
+        {
+          "type": "p",
+          "text": "**Mouth and night guards.** Custom made appliances for grinding and clenching, and protective mouthguards for contact sport. Given how much junior sport is played across Woolooware and Cronulla, custom sports guards come up regularly. They fit better and protect better than the boil and bite versions sold over the counter."
+        },
+        {
+          "type": "p",
+          "text": "**Extractions.** When a tooth cannot reasonably be saved, removing it carefully and discussing what comes next."
+        },
+        {
+          "type": "p",
+          "text": "**Preventive advice.** Practical, specific and based on your mouth rather than a leaflet. If a particular area keeps developing decay, we will work out why."
+        }
+      ]
+    },
+    {
+      "heading": "If it has been a while",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "A meaningful number of people have not seen a dentist in years, and the reason is usually embarrassment about how long it has been. That embarrassment then makes the gap longer."
+        },
+        {
+          "type": "p",
+          "text": "We want to be direct about this. Nobody at this practice will lecture you about the years you missed. It is not useful, it is not kind, and it makes people less likely to come back. We are interested in your mouth as it is today."
+        },
+        {
+          "type": "p",
+          "text": "If you would prefer to start with a conversation rather than an examination, that appointment is available."
+        }
+      ]
+    },
+    {
+      "heading": "Convenient for the Shire",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "13 Cronulla Street sits in the Cronulla shopping precinct, a short walk from Cronulla station and the wharf. For most patients that means a check-up can be worked into an existing trip into town rather than requiring a separate outing."
+        },
+        {
+          "type": "p",
+          "text": "We see patients from across Cronulla, Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point, Kurnell and Bundeena, and from the wider Sutherland Shire."
+        }
+      ]
+    },
+    {
+      "heading": "Booking a check-up",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}}). If you are nervous, mention it when you book. It changes how we run the appointment."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "general",
+  "image": {
+    "src": "/images/services/general-dentistry-cronulla.jpg",
+    "alt": "General Dentistry at The Cronulla Dentists"
+  }
+}

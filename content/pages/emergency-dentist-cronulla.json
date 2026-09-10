@@ -1,0 +1,180 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "emergency-dentist-cronulla",
+    "route": "/emergency-dentist-cronulla/",
+    "title": "Emergency Dentistry",
+    "metaTitle": "Emergency Dentist in Cronulla | The Cronulla Dentists",
+    "metaDescription": "Dental emergencies at 13 Cronulla Street, Cronulla. What to do for a knocked out tooth, severe pain, swelling or a lost crown, and when to call us.",
+    "primaryKeyword": "emergency dentist Cronulla",
+    "gate": "emergency"
+  },
+  "h1": "Emergency Dentistry in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Emergency Dentistry"
+  ],
+  "eyebrow": "WHEN IT CANNOT WAIT",
+  "h2": "Emergency Dentistry in Cronulla",
+  "hook": "**In pain, swollen, or broken a tooth? Call us and we will get you seen.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Dental emergencies have poor timing. A tooth breaks on a Saturday, an old crown comes off the night before a work trip, or a child comes off a bike at Woolooware and arrives home holding a tooth."
+    },
+    {
+      "type": "p",
+      "text": "We keep appointment time available each day for urgent problems. If you are in pain, swelling, bleeding or have had an injury to the mouth, call us on {{phone}}."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "Call an ambulance on 000 if",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Some situations are beyond a dental practice. Go to an emergency department or call 000 if there is:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Facial swelling that is affecting your breathing or swallowing, or spreading toward the eye or neck",
+            "Uncontrolled bleeding that does not slow with firm pressure after 20 minutes",
+            "A suspected broken jaw, or a head injury with loss of consciousness, confusion or vomiting"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The nearest emergency department is Sutherland Hospital at Caringbah."
+        }
+      ]
+    },
+    {
+      "heading": "What counts as a dental emergency",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Severe toothache.** Particularly pain that wakes you at night, does not settle with over the counter pain relief, or is triggered by heat. These often indicate the nerve is involved and generally will not resolve on their own."
+        },
+        {
+          "type": "p",
+          "text": "**Facial or gum swelling.** Swelling usually means infection. It should be assessed promptly rather than waited out, because dental infections can spread."
+        },
+        {
+          "type": "p",
+          "text": "**A knocked out tooth.** Genuinely time critical. See the instructions below."
+        },
+        {
+          "type": "p",
+          "text": "**A broken or badly chipped tooth.** Especially where it is painful, sharp against your tongue, or the inner layer of the tooth is exposed."
+        },
+        {
+          "type": "p",
+          "text": "**A lost filling or crown.** Not usually painful straight away, but the exposed tooth is vulnerable and can become sensitive quickly."
+        },
+        {
+          "type": "p",
+          "text": "**Bleeding that will not stop** after an extraction."
+        },
+        {
+          "type": "p",
+          "text": "**An abscess.** A pimple like swelling on the gum, often with a bad taste. This needs treatment, and the fact that it sometimes bursts and eases the pain does not mean it has resolved."
+        },
+        {
+          "type": "p",
+          "text": "**Trauma to the mouth** from sport, a fall or an accident."
+        }
+      ]
+    },
+    {
+      "heading": "If a tooth has been knocked out",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "This is the one where what you do in the first half hour genuinely changes the outcome, so it is worth reading before you ever need it."
+        },
+        {
+          "type": "p",
+          "text": "**Only an adult tooth should be reimplanted.** Do not try to put a baby tooth back, as it can damage the developing adult tooth underneath."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**Find the tooth and pick it up by the crown**, the chewing part. Do not touch the root.",
+            "**If it is dirty, rinse it very briefly in milk**, or in the patient’s own saliva. Do not scrub it, do not use soap or disinfectant, and do not let it dry out. The cells on the root surface are what allow it to reattach.",
+            "**Try to put it back in the socket** straight away, the right way round, and hold it in place by biting gently on a clean cloth. This is the best possible storage.",
+            "**If you cannot reimplant it**, keep it moist. Milk is the best option. The patient’s own saliva, held inside their cheek, works if they are old enough not to swallow it. Water is a poor last resort. Do not wrap it in tissue.",
+            "**Get to a dentist immediately.** The chances of the tooth surviving fall sharply after the first 30 to 60 minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "While you are waiting to be seen",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**For pain**, over the counter pain relief taken as directed on the packet is usually appropriate. Never place aspirin directly against the gum, as it burns the tissue."
+        },
+        {
+          "type": "p",
+          "text": "**For swelling**, a cold compress against the outside of the cheek, 15 minutes on and 15 minutes off."
+        },
+        {
+          "type": "p",
+          "text": "**For a lost filling or crown**, keep the crown if you have it and bring it in. Temporary dental cement from a pharmacy can hold a crown in place briefly. Do not use household glue."
+        },
+        {
+          "type": "p",
+          "text": "**For a broken tooth with a sharp edge**, orthodontic wax or sugar free chewing gum over the edge will protect your tongue."
+        },
+        {
+          "type": "p",
+          "text": "**Sleep propped up** if throbbing is worse when you lie flat."
+        },
+        {
+          "type": "p",
+          "text": "**Do not apply heat** to a swollen area, and avoid very hot or very cold food and drink on a sensitive tooth."
+        }
+      ]
+    },
+    {
+      "heading": "What happens at an emergency appointment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "The first objective is getting you comfortable. We diagnose the problem, explain what we have found and what the options are, and deal with the immediate issue."
+        },
+        {
+          "type": "p",
+          "text": "Emergency treatment is often two stages. We settle the pain or infection now, then plan the definitive repair for a follow up appointment once things have calmed down. That is normal and it usually produces a better long term result than rushing the permanent fix while a tooth is inflamed."
+        },
+        {
+          "type": "p",
+          "text": "You will be told what the emergency appointment costs before we begin. Payment plans through DentiCare are available for follow up treatment."
+        }
+      ]
+    },
+    {
+      "heading": "Where to find us",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "13 Cronulla Street, in the Cronulla shopping precinct, a short walk from Cronulla station and the wharf. We are within a few minutes of Woolooware, Burraneer, Greenhills Beach, Caringbah South, Taren Point and Kurnell, and accessible from Bundeena via the Cronulla ferry."
+        },
+        {
+          "type": "p",
+          "text": "**Emergency appointments:** {{phone}} **After hours arrangements:**"
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "general",
+  "image": {
+    "src": "/images/services/emergency-dentist-cronulla.jpg",
+    "alt": "Emergency dental care at The Cronulla Dentists"
+  }
+}

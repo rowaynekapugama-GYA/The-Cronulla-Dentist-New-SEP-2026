@@ -1,0 +1,171 @@
+{
+  "kind": "service",
+  "meta": {
+    "slug": "finances",
+    "route": "/finances/",
+    "title": "Finances",
+    "metaTitle": "Payment Plans & Finances | The Cronulla Dentists",
+    "metaDescription": "Written estimates before treatment, nib preferred provider, HICAPS claiming on the spot and DentiCare payment plans at our Cronulla practice.",
+    "primaryKeyword": "dental payment plans Cronulla"
+  },
+  "h1": "Finances in Cronulla",
+  "breadcrumb": [
+    "Home",
+    "Services",
+    "Finances"
+  ],
+  "eyebrow": "TALKING ABOUT COST",
+  "h2": "Finances and Payment Plans in Cronulla",
+  "hook": "**Putting off treatment because of cost? Let us have that conversation early rather than late.**",
+  "body": [
+    {
+      "type": "p",
+      "text": "Cost is the most common reason dental treatment gets postponed, and postponed treatment almost always becomes more expensive treatment."
+    },
+    {
+      "type": "p",
+      "text": "We would rather have the conversation early and openly than have you sit on a problem for a year because you were not sure what it would cost."
+    }
+  ],
+  "ctaBand": "**Give Us A Call At {{phone}} Today To Make An Appointment**",
+  "details": [
+    {
+      "heading": "You will know the cost before we start",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "No treatment begins at this practice without you knowing what it will cost."
+        },
+        {
+          "type": "p",
+          "text": "For anything beyond a routine visit, you will receive a written treatment plan that sets out what is recommended, what each item costs, the relevant item numbers for your health fund, and what your out of pocket amount is likely to be."
+        },
+        {
+          "type": "p",
+          "text": "Take it home. Think about it. Get another opinion if you want one. There is no deadline attached and no discount that disappears if you do not book on the day."
+        },
+        {
+          "type": "p",
+          "text": "If circumstances change during treatment, and occasionally they do once we can see more, we stop and discuss it with you before continuing. You will not receive an invoice with items on it that you have not agreed to."
+        }
+      ]
+    },
+    {
+      "heading": "Health funds",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We are an nib preferred provider. We also use HICAPS, so whichever fund you are with, bring your card and you can claim on the spot and pay only the gap."
+        },
+        {
+          "type": "p",
+          "text": "A few things worth knowing about dental cover, because they cause most of the confusion:"
+        },
+        {
+          "type": "p",
+          "text": "**Extras cover is what pays for dental**, not hospital cover, unless you are having treatment in hospital."
+        },
+        {
+          "type": "p",
+          "text": "**Annual limits reset**, usually on 1 January though some funds use the financial year. If you have limits still available and treatment you have been meaning to do, it is worth checking before they lapse."
+        },
+        {
+          "type": "p",
+          "text": "**Waiting periods apply to new policies** and to upgrades, commonly two months for general dental and twelve for major treatment."
+        },
+        {
+          "type": "p",
+          "text": "**Major dental has its own limit**, often separate from and lower than the general dental limit."
+        },
+        {
+          "type": "p",
+          "text": "We can give you the item numbers before treatment so you can call your fund and get an exact figure. Reception is happy to help with this."
+        }
+      ]
+    },
+    {
+      "heading": "Medicare and government schemes",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Child Dental Benefits Schedule.** Eligible children aged 0 to 17 may have a capped benefit available over two years, covering examinations, X-rays, cleans, fissure sealants, fillings and extractions. Eligibility is determined by Services Australia and families are generally notified directly. We can check for you when you book.",
+          "gate": "cdbs"
+        },
+        {
+          "type": "p",
+          "text": "**Medicare** does not cover general dental treatment for adults. Very limited exceptions exist through the Chronic Disease Dental Scheme where a GP has prepared a care plan, and through public dental services for eligible concession card holders."
+        }
+      ]
+    },
+    {
+      "heading": "Payment plans",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Where treatment is more substantial, spreading the cost is often the difference between having it done and putting it off."
+        },
+        {
+          "type": "p",
+          "text": "**DentiCare.** A dental specific payment plan that lets you pay off treatment in regular instalments, usually by direct debit, over a term agreed at the outset. Because the term can run longer than the buy now pay later products allow, each instalment lands lower. It suits implant treatment, extensive restorative work and multi stage plans."
+        },
+        {
+          "type": "p",
+          "text": "DentiCare is a separate financial product provided by a third party, with its own approval process, terms, fees and eligibility criteria. Approval is decided by DentiCare rather than by us and is not guaranteed. Please read their terms before committing and consider whether the arrangement suits your circumstances."
+        },
+        {
+          "type": "p",
+          "text": "Reception can walk you through how it tends to work in practice."
+        }
+      ]
+    },
+    {
+      "heading": "Staging treatment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "There is another option that gets overlooked, and it costs nothing."
+        },
+        {
+          "type": "p",
+          "text": "Where a treatment plan has several parts, we can usually prioritise. What is urgent gets done now. What is important but not urgent gets scheduled in a few months. What is elective waits until you are ready."
+        },
+        {
+          "type": "p",
+          "text": "This is a legitimate clinical approach, not a compromise, provided the urgent work is not left. If cost is a constraint, say so at your appointment and we will build the plan around it."
+        }
+      ]
+    },
+    {
+      "heading": "Payment methods",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "cash, EFTPOS and all major credit cards"
+        }
+      ]
+    },
+    {
+      "heading": "Talking about it",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Nobody at this practice will make you feel awkward for asking what something costs, or for saying that an amount is beyond you at the moment. It is a normal part of a health care conversation and we would much rather have it."
+        },
+        {
+          "type": "p",
+          "text": "We are at 13 Cronulla Street, Cronulla."
+        },
+        {
+          "type": "p",
+          "text": "Call {{phone}} or [book online]({{cta}})."
+        }
+      ]
+    }
+  ],
+  "closingCta": "**To arrange an appointment, call us on {{phone}}.**",
+  "category": "other",
+  "image": {
+    "src": "/images/services/finances.jpg",
+    "alt": "Finances at The Cronulla Dentists"
+  }
+}

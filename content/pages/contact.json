@@ -1,0 +1,187 @@
+{
+  "kind": "contact",
+  "meta": {
+    "slug": "contact",
+    "route": "/contact/",
+    "title": "Contact",
+    "metaTitle": "Contact Us | The Cronulla Dentists | Cronulla NSW",
+    "metaDescription": "Find The Cronulla Dentists at 13 Cronulla Street, Cronulla. Opening hours, parking, public transport directions and how to book an appointment.",
+    "primaryKeyword": "dentist Cronulla contact, 13 Cronulla Street"
+  },
+  "h1": "Contact The Cronulla Dentists",
+  "sections": [
+    {
+      "heading": "Where we are",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**The Cronulla Dentists** 13 Cronulla Street Cronulla NSW 2230"
+        },
+        {
+          "type": "p",
+          "text": "**Phone:** {{phone}} **Email:** {{email}}"
+        }
+      ]
+    },
+    {
+      "heading": "Opening hours",
+      "nodes": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Hours"
+            ],
+            [
+              "Monday",
+              "9am to 7pm"
+            ],
+            [
+              "Tuesday",
+              "Closed"
+            ],
+            [
+              "Wednesday",
+              "8am to 5pm"
+            ],
+            [
+              "Thursday",
+              "8am to 5pm"
+            ],
+            [
+              "Friday",
+              "7am to 3pm"
+            ],
+            [
+              "Saturday",
+              "Closed"
+            ],
+            [
+              "Sunday",
+              "Closed"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Public holiday hours may differ. Please call ahead."
+        }
+      ]
+    },
+    {
+      "heading": "Getting here",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**By train.** Cronulla station is the terminus of the T4 Eastern Suburbs and Illawarra line, and 13 Cronulla Street is a short walk from the platform. For patients coming from Woolooware, Caringbah, Miranda or further up the line, the train is often the simplest option."
+        },
+        {
+          "type": "p",
+          "text": "**By ferry.** The Cronulla to Bundeena ferry runs from Cronulla wharf, a short walk away, which makes appointments practical for Bundeena and Maianbar residents around the timetable."
+        },
+        {
+          "type": "p",
+          "text": "**By car.** We are in the Cronulla Street precinct in the centre of town. From Caringbah South, Burraneer and Greenhills Beach the drive is a matter of minutes. Kurnell and Taren Point patients are also close by."
+        }
+      ]
+    },
+    {
+      "heading": "Booking an appointment",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "**Online.** Book at a time that suits you, at any hour.",
+          "mode": "open"
+        },
+        {
+          "type": "p",
+          "text": "**By phone.** Call {{phone}} and our reception team can help with timing, or talk through what a particular appointment involves if you are unsure what to book."
+        },
+        {
+          "type": "p",
+          "text": "**By email.** Send us a message at {{email}} and we will get back to you."
+        },
+        {
+          "type": "p",
+          "text": "If you are anxious about dental visits, please mention it when you book. We schedule those appointments differently, and there is more detail on [our dental anxiety page](/dental-anxiety-cronulla/)."
+        }
+      ]
+    },
+    {
+      "heading": "New patients",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "You are welcome. A first visit typically includes an examination, X-rays where clinically indicated, a professional clean and a conversation about what we have found."
+        },
+        {
+          "type": "p",
+          "text": "It helps if you can bring:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Your Medicare card",
+            "Your private health fund card, if you have cover",
+            "A list of any medications you take and any relevant medical conditions",
+            "Details of your previous dentist, if you would like your records transferred",
+            "Your child’s Child Dental Benefits Schedule details, if applicable"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Please arrive a few minutes early for your first appointment so we can complete your medical history without cutting into your treatment time."
+        }
+      ]
+    },
+    {
+      "heading": "If you need to reschedule",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "Please give us as much notice as you can, ideally at least 24 hours. Appointments are booked as a block of time reserved for you, and late notice usually means that time cannot be offered to someone else who needs it."
+        },
+        {
+          "type": "p",
+          "text": "If you are running late on the day, call us rather than assuming the appointment is lost. Depending on what is booked and what is behind us, we can often still see you, or we can shorten the appointment and finish at another visit."
+        }
+      ]
+    },
+    {
+      "heading": "Payment and health funds",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "We accept cash, EFTPOS and all major credit cards."
+        },
+        {
+          "type": "p",
+          "text": "We are an nib preferred provider, and we use HICAPS so you can claim on the spot with any fund and pay only the gap."
+        },
+        {
+          "type": "p",
+          "text": "Payment plans are available through DentiCare. More detail is on [our finances page](/finances/)."
+        }
+      ]
+    },
+    {
+      "heading": "Dental emergencies",
+      "nodes": [
+        {
+          "type": "p",
+          "text": "If you are in significant pain, have facial swelling or have had an injury to your mouth, call {{phone}}. We hold appointment time each day for urgent problems."
+        },
+        {
+          "type": "p",
+          "text": "For swelling that affects breathing or swallowing, uncontrolled bleeding or a suspected broken jaw, go to an emergency department or call 000. The nearest emergency department is Sutherland Hospital at Caringbah."
+        }
+      ],
+      "gate": "emergency"
+    },
+    {
+      "heading": "Send us a message",
+      "nodes": []
+    }
+  ]
+}
