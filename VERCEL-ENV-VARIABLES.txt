@@ -1,0 +1,47 @@
+THE CRONULLA DENTISTS — VERCEL ENVIRONMENT VARIABLES
+=====================================================
+Vercel → Project → Settings → Environment Variables
+Add each one to Production (and Preview if you want test deploys to send).
+These power the /register/ EOI form and the /contact/ form, which relay
+through SMTP2GO into the SmileOx pipeline.
+
+NAME:  SMTP2GO_API_KEY
+VALUE: [paste from SMTP2GO dashboard -> Settings -> API Keys]
+       This is the ONE value not stored anywhere in this project. The same
+       relay pattern runs the current pre-opening EOI page, so the quickest
+       source is the existing Vercel project for that page: open its
+       Settings -> Environment Variables and copy SMTP2GO_API_KEY across.
+
+NAME:  SMTP2GO_SENDER
+VALUE: website@thecronulladentists.com.au
+       Must be a verified sender in SMTP2GO (Settings -> Verified Senders).
+
+NAME:  SMILEOX_INTAKE_EMAIL
+VALUE: the-cronulla-dentists+94b89dce-1b48-4cff-b239-d600e865094b@intake.smileox.com.au
+       The practice's SmileOx intake address. Every form submission is
+       delivered here and lands in SmileOx as a lead.
+
+NAME:  NOTIFY_EMAIL          (optional)
+VALUE: reception@thecronulladentists.com.au
+       CC of every submission to reception. Leave out if not wanted.
+
+-----------------------------------------------------
+HOW THE FORMS BEHAVE
+- All four variables set  -> submissions relay to SmileOx (and CC reception).
+- SMTP2GO_API_KEY missing -> submissions are logged server-side only and the
+  visitor still sees the success state (safe for previews, NOT for launch).
+- Bad/expired key         -> visitor sees "We could not send your registration.
+  Please try again or email us." and the submission is not silently lost.
+- Both endpoints validate input, reject empty submits, and carry a honeypot
+  field that silently swallows bot submissions.
+
+TEST AFTER SETTING (2 minutes)
+1. Deploy, open /register/, submit a test registration with your own mobile.
+2. Confirm the lead appears in SmileOx for The Cronulla Dentists.
+3. Same once for the /contact/ form.
+
+-----------------------------------------------------
+STILL EMPTY IN site.config.ts (not env vars — edit the file when known):
+- gtmId       -> GTM container ID (GTM-XXXXXXX) — analytics fires only once set
+- bookingUrl  -> online booking link, used when mode flips to 'open'
+- sameAs.facebook / sameAs.instagram -> social URLs for schema once live
