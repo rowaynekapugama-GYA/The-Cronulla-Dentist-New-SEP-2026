@@ -1,0 +1,81 @@
+UPLOADING THESE TO GITHUB (drag and drop, no terminal)
+======================================================
+
+36 files. All of them either replace a file already in the repo or add a new
+one. Nothing in the repo needs deleting for this update, which is why plain
+drag and drop is safe this time.
+
+STEPS
+-----
+1. Open the repo on github.com:
+   github.com/rowaynekapugama-GYA/The-Cronulla-Dentists-Final
+
+2. Make sure you are looking at the TOP LEVEL of the repo, the page where
+   package.json, app/ and components/ are listed. Not inside a subfolder.
+
+3. Add file  ->  Upload files
+
+4. Unzip this folder on your computer, then select everything INSIDE it
+   (app, components, lib, public, scripts, package.json, site.config.ts,
+   IMAGES-NEEDED.md) and drag it onto the upload area.
+
+   Drag the CONTENTS, not the folder itself. If you drag the folder you will
+   end up with a folder called "changed" inside the repo and nothing will
+   actually be replaced.
+
+   Do not upload HOW-TO-UPLOAD.txt. It is only for you.
+
+5. Commit message: "Add GA4, fix image caching and mobile menu"
+   Commit directly to main  ->  Commit changes
+
+6. Vercel picks it up automatically. Watch the deployment go green, then
+   hard-refresh the site.
+
+GitHub will show the folder structure being preserved as it uploads. Files at
+the same path are replaced; new ones are added. Any file you upload that is
+already identical is simply ignored, so there is no harm in re-uploading
+something that has not changed.
+
+
+WHEN DRAG AND DROP IS NOT ENOUGH
+--------------------------------
+Worth knowing, because it has bitten this repo before. The web uploader only
+ADDS and REPLACES. It never deletes. So if a future update removes a file or
+renames one, the old copy stays in the repo, and with Next.js a leftover file
+can break the build or quietly serve stale content. It also caps at 100 files
+per upload.
+
+For updates like that, the full replace is the safe path:
+
+  find . -mindepth 1 -not -path './.git*' -delete
+  (copy the new project in)
+  git add -A && git commit -m "Site update" && git push
+
+I will tell you which of the two you need each time.
+
+
+WHAT IS IN THIS UPDATE
+----------------------
+Google Analytics 4 (G-XDZHHZLVYL) on every page
+  site.config.ts, components/Gtm.tsx, app/layout.tsx
+
+Image cache fix, so a swapped photo is no longer served from Vercel's old cache
+  lib/img.ts, lib/image-manifest.json, components/Img.tsx,
+  scripts/gen-image-manifest.mjs, package.json, and the seven files that
+  render images
+
+Mobile menu fix, tapping the current page no longer leaves the menu stuck open
+  components/Nav.tsx
+
+Bigger tap targets for the phone and email in the mobile menu
+  app/globals.css
+
+Replaced photos
+  public/images/services/ and public/images/tiles/ (Dental Anxiety,
+  Periodontal Treatment, Wisdom Teeth Removal, Mouth & Night Guards, plus the
+  earlier General Dentistry, Cosmetic Dentistry, White Fillings, Hygiene
+  Treatments, Dentures and Children's Dentistry swaps, in case any of those
+  did not make it into the repo)
+
+Notes for the file record
+  IMAGES-NEEDED.md
