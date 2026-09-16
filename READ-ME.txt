@@ -1,28 +1,34 @@
-GA4 — THREE FILES THAT MUST GO UP TOGETHER
-==========================================
+ONE FILE — A PAGE THAT TELLS US WHAT IS ACTUALLY WRONG
+======================================================
 
-  site.config.ts          holds ga4Id: 'G-XDZHHZLVYL'
-  components/Gtm.tsx      the Ga4 component that renders the tag
-  app/layout.tsx          calls <Ga4 /> in the page head
+Upload so the path lands as:
 
-Upload ALL THREE in one go, into the repo root so the paths land as
-site.config.ts, components/Gtm.tsx and app/layout.tsx.
+  app/api/relay-check/route.ts
 
-This is almost certainly why you got the two red Error builds earlier. The
-three files reference each other:
+It is a brand new file. It does not touch or depend on anything else, so it
+cannot break the build the way the GA4 files did.
 
-  app/layout.tsx  imports Ga4 from  components/Gtm.tsx  which reads  ga4Id
-  from  site.config.ts
+AFTER IT DEPLOYS, OPEN THIS IN YOUR BROWSER
+-------------------------------------------
+https://www.thecronulladentists.com.au/api/relay-check/?token=cronulla-check-2026
 
-Upload layout.tsx on its own and the build fails with "Ga4 is not exported
-from @/components/Gtm", because the file it is importing from is still the old
-version. Same story in reverse. Vercel then keeps serving the previous build,
-which is why the site looked unchanged rather than broken.
+You will get a plain text page. Screenshot it and send it to me.
 
-That is the general rule with this project: when I send you a batch, upload
-the whole batch in one commit. Files that changed together need to land
-together.
+It shows two things:
 
-After uploading, watch the deployment go green, then load the site and view
-source. Searching for G-XDZHHZLVYL should find it. GA4 Realtime will show you
-within about a minute.
+1. What the live function can actually see for each of the four environment
+   variables. It flags a value pasted with a stray space or line break, which
+   is invisible in the Vercel screen and is one of the few things that can
+   break a key that was working yesterday.
+
+2. The result of one real send through SMTP2GO, with SMTP2GO's own reply
+   printed word for word. That is the bit we have never been able to see. The
+   forms only ever say "we could not send", which is the same message whether
+   the key is wrong, the sender is not verified, or the account is out of
+   credits.
+
+The API key is NOT printed. Only its length and first and last few characters,
+which is enough to confirm it matches without exposing it on a public URL.
+
+DELETE THIS FILE once the forms are working. It is a diagnostic, not part of
+the site. The token only stops it being stumbled on, it is not real security.
