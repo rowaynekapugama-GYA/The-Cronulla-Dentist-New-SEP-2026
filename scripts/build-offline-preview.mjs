@@ -81,6 +81,20 @@ for (const file of htmlFiles) {
   //     on the page renders blank.
   html = html.replace(/(\/images\/[^"'()\\\s]+?)\?v=[a-f0-9]+/g, '$1');
 
+  // 1d. Strip analytics. This folder is for reviewing the design from disk, and
+  //     every open would otherwise send GA4 pageviews from file:// URLs into the
+  //     live property, mixed in with real visitors.
+  //     next/script renders through the inlined React payload rather than a
+  //     literal <script src>, so removing tags is not enough — the URL has to be
+  //     killed in the payload too, otherwise hydration loads it anyway. With an
+  //     empty src nothing is requested; the gtag() calls left behind only push
+  //     onto a dataLayer array that no one reads.
+  html = html.replace(/<link[^>]*googletagmanager\.com[^>]*\/?>/g, '');
+  html = html.replace(/<script[^>]*googletagmanager\.com[^>]*><\/script>/g, '');
+  html = html.replace(/<noscript><iframe src="https:\/\/www\.googletagmanager\.com[\s\S]*?<\/noscript>/g, '');
+  html = html.split('https://www.googletagmanager.com/gtag/js?id=').join('');
+  html = html.split('https://www.googletagmanager.com/gtm.js?id=').join('');
+
   // 2. Assets and chunk paths (also inside the inlined React payload) → relative.
   html = html.split('"/_next/').join(`"${up}_next/`).split('\\"/_next/').join(`\\"${up}_next/`);
   html = html.split('"/images/').join(`"${up}images/`).split('\\"/images/').join(`\\"${up}images/`);

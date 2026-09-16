@@ -48,7 +48,12 @@ export const SITE_CONFIG = {
 
   // ---- TODO values (swap when supplied) ----
   bookingUrl: '', // TODO: practice management online booking link
-  gtmId: '', // TODO: GTM container ID e.g. GTM-XXXXXXX
+  gtmId: '', // Optional GTM container ID (GTM-XXXXXXX). Separate from ga4Id below — leave blank unless a container is actually set up.
+  /**
+   * GA4 measurement ID. This is the gtag.js property, not a Tag Manager
+   * container, so it loads on its own and does not need gtmId to be set.
+   */
+  ga4Id: 'G-XDZHHZLVYL',
   /**
    * Keyless Google Maps embed resolved by the exact GBP name + address, so the
    * iframe shows the practice's own pin/listing card, not a bare address point.
