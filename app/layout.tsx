@@ -6,7 +6,7 @@ import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import Reveal from '@/components/Reveal';
 import { JsonLd } from '@/components/JsonLd';
-import { GtmBody, GtmHead } from '@/components/Gtm';
+import { Ga4, GtmBody, GtmHead } from '@/components/Gtm';
 import { dentistSchema } from '@/lib/schema';
 import { primaryNav, aboutFeatured, serviceGroups, featuredServices, serviceCount } from '@/lib/nav';
 import { primaryCta } from '@/lib/cta';
@@ -48,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en-AU" className={`${poppins.variable} ${inter.variable}`}>
       <head>
         <GtmHead />
+        <Ga4 />
       </head>
       <body>
         <GtmBody />

@@ -10,6 +10,33 @@ export function GtmHead() {
     </Script>
   );
 }
+/**
+ * GA4 (gtag.js) — loads only when SITE_CONFIG.ga4Id is set.
+ *
+ * Deliberately separate from the GTM block above: a G-XXXXXXXXXX measurement ID
+ * and a GTM-XXXXXXX container are different products, and dropping the GA4 ID
+ * into the Tag Manager loader would not report anything. If a GTM container is
+ * ever added, set gtmId as well — but then move GA4 INSIDE the container and
+ * clear ga4Id here, or every pageview is counted twice.
+ *
+ * One tag only. The snippet supplied was pasted twice; a second copy of gtag.js
+ * on the same page fires a duplicate page_view and inflates every session.
+ */
+export function Ga4() {
+  if (!SITE_CONFIG.ga4Id) return null;
+  return (
+    <>
+      <Script src={`https://www.googletagmanager.com/gtag/js?id=${SITE_CONFIG.ga4Id}`} strategy="afterInteractive" />
+      <Script id="ga4" strategy="afterInteractive">
+        {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${SITE_CONFIG.ga4Id}');`}
+      </Script>
+    </>
+  );
+}
+
 export function GtmBody() {
   if (!SITE_CONFIG.gtmId) return null;
   return (
